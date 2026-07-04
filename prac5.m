@@ -1,0 +1,14 @@
+x = linspace(0, 10, 1000);
+y = x.^2 + 2*x + 1;
+plot(x, y, 'LineWidth', 2, 'Color', 'red');
+xlabel('x');
+ylabel('y = x^2');
+title('A graph of y = x^2 in red');
+[a, b] = ginput(1);
+str = 'Every point represnets (x, x^2 + 2*x + 1)';
+text(a, b, str);
+hold on;
+y = -x.^2 + 12;
+plot(x, y, 'LineWidth', 2, 'Color', 'black');
+gtext('Another graph for practicing parabola');
+hold off;
