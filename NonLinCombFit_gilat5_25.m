@@ -1,0 +1,53 @@
+
+
+% Problem 5.25 Gilat Numerical Analysis 3rd Edition
+%
+% A linear combination of three functions used for curve fitting has the form
+%
+%       F(x) = C1*f1(x) + C2*f2(x) + C3*f3(x)
+%
+% We have to write a MATLAB user-defined function that determines the coefficients
+% C1, C2, and C3 that best fit a given set of data points.
+%
+% Name the function:
+%
+%       C = NonLinCombFit_gilat5_25(F1, F2, F3, x, y)
+%
+% where
+%   F1, F2, F3 : function handles (user-defined or anonymous) for
+%                f1(x), f2(x), and f3(x), respectively.
+%   x, y       : vectors containing the coordinates of the data points.
+%
+% The output
+%
+%   C = [C1 C2 C3]
+%
+% is a three-element row vector containing the coefficients that
+% produce the least-squares best fit.
+%
+
+function c = NonLinCombFit_gilat5_25(f1, f2, f3, x, y)
+
+i = length(x);
+if i ~= length(y)
+    error('Size mismatch in the given vector!');
+end
+
+A = zeros(3, 3);
+
+f = {f1, f2, f3};
+b = zeros(3, 1);
+x = x(:);
+y = y(:);
+
+for k = 1 : 3
+    fk = f{k};
+    for j = 1 : 3
+        fj = f{j};
+        A(k, j) = sum(fj(x) .* fk(x));
+    end
+    b(k) = sum(y .* fk(x));
+end
+c = A\b;
+c = c';
+end
