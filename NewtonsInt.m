@@ -1,0 +1,41 @@
+function yint = NewtonsInt(x, y, xint)
+    % This function performs Newton's interpolation on the 
+    % given data sets, and then evaluates the polynomial 
+    % on the target data set xint and provides outcome yint. 
+    n = length(x);
+    if n ~= length(y)
+        error('Size mismatch!');
+    end
+    if length(unique(x)) ~= n
+        error('The interpolation points in x must be distinct.');
+    end
+
+    A = zeros(n, n);
+    y = y(:);
+
+    A(:, 1) = y;
+
+    for j = 2 : n
+        w = 1;
+        for i = j : n 
+            A(i, j) = (A(i, j - 1) - A(i - 1, j - 1)) / (x(i) - x(w));
+            w = w + 1;
+        end
+    end
+
+
+    c = diag(A);
+
+    xint = xint(:)';
+
+    yint = zeros(1, length(xint));
+    
+    yint(1, :) = c(1);
+    term = 1;
+    for i = 2 : length(c)
+        term = term .* (xint(1, :) - x(i - 1));
+        yint(1, :) = yint(1, :) + c(i) .* term;
+    end
+
+end
+        
