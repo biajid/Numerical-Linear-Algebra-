@@ -1,0 +1,2644 @@
+#Multicore Programming (It has videos)
+
+https://wgropp.cs.illinois.edu/courses/cs598-s16/index.htm
+
+
+# Havard CS 50 
+Learn for the cs 288 C part 
+
+https://www.youtube.com/watch?v=LfaMVlDaQ24
+
+High Performance Numerical Computing and MPI
+
+https://web.njit.edu/~shahriar/class_home/math453.html
+https://web.njit.edu/~shahriar/class_home/HPC/HPC.html
+
+Cornell Notes for Data Science and CS
+https://cvw.cac.cornell.edu/roadmaps
+
+Important CS courses Monash University Easy
+https://www.csse.monash.edu.au/%7Ecema/courses/CSE2305/General/html/guide.html
+
+
+Pointer Ted Jensen Very Good
+https://github.com/jflaherty/ptrtut13/blob/master/md/pointers.md
+
+Modern C good
+
+https://inria.hal.science/hal-02383654v2/file/modernC.pdf
+
+High Performance Computing 
+https://enccs.se/lessons/
+
+
+
+Unix Look Later::
+https://www.shellscript.sh/
+
+https://www.cs.fsu.edu/~myers/cop3353/notes/
+
+https://www.cs.fsu.edu/~myers/howto/UnixTutorial.txt
+
+https://www.cs.fsu.edu/~myers/howto/
+
+C++ Review Very Intro Level::
+https://www.cs.fsu.edu/~myers/c++/notes/index3014.html
+
+Shell Very Interesting Format::
+https://www.cs.fsu.edu/~langley/COP3353/2017-2/
+
+Good Linux Type Classes::
+https://www.cs.fsu.edu/~langley/
+
+Programming Language Concept For Clarification 
+https://www.cs.fsu.edu/~langley/COP4020/2025-Fall/index.html
+
+For UNIX
+Most Detailed:: has latex lesson too!
+https://www.cs.fsu.edu/~langley/COP4342-2008-Fall/
+https://www.cs.fsu.edu/~langley/COP4342/2023-Spring/index.html
+https://www.cs.fsu.edu/~langley/COP4342/2019-Spring/
+
+https://www.cs.fsu.edu/~langley/CNT5605/2017-Summer/index.html
+
+https://www.cs.fsu.edu/~langley/CNT5605-2009-Fall/index.html
+
+https://www.cs.fsu.edu/~langley/CIS4407-2008-Summer/index.html
+
+Cyber Forensic
+https://www.cs.fsu.edu/~langley/CIS4930r-2010-1/index.html
+
+All Courses related to IT
+https://www.cs.fsu.edu/~langley/
+
+C
+https://www3.cs.stonybrook.edu/~cse230/lectures.html
+
+Computer Graphics
+https://graphics.cs.utah.edu/courses/cs4600/fall2025/
+https://www.youtube.com/@cem_yuksel/courses
+
+Parallel Programming NPTEL
+https://nptel.ac.in/courses/106102163
+
+NUMERICAL DIFFERENTIAL EQUATION:
+https://deleo.website/HU/MATH247-S22/lecturesContent.html#l1
+
+https://deleo.website/NDE/frontmatter.html
+
+Dynamical Systems good
+https://deleo.website/
+
+
+Computational Physics Rubin Lundau
+https://sites.science.oregonstate.edu/~landaur/Books/CPbook/eBook/Lectures/index.html
+
+Computational Physics Rutgers good
+https://www.physics.rutgers.edu/~haule/488/
+
+Computational Physics
+https://github.com/vlvovch/PHYS6350-ComputationalPhysics/tree/main/book
+
+Scientific Computing With Python 
+https://github.com/jrjohansson/scientific-python-lectures
+
+Computational Physics
+https://www.physics.rutgers.edu/~haule/509/
+https://www.physics.rutgers.edu/~haule/681/
+
+Quantum Mechanics Has Good Problems
+https://www.physics.rutgers.edu/~haule/501/
+
+Survey of Computational Physics Rubin Landau
+https://www.dsf.unica.it/~fiore/survey.pdf
+
+
+Professor Mary Vernon Data Structure good
+https://pages.cs.wisc.edu/~vernon/cs367/current/schedule.html
+
+Data Structure Very good
+https://andrewcmyers.github.io/oodds/index.html
+
+Introduction to Compilers
+
+https://www.cs.cornell.edu/courses/cs4120/2023sp/?schedule
+
+Cornell Machine Learning Probably good
+
+https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83
+
+Rutgers DS
+https://github.com/Shubham8037/Rutgers-CS-344/tree/master/Exams
+it has lecture slides and exam question for 344
+and 288 njit
+
+https://github.com/Shubham8037/Rutgers-CS-Exams
+CS ALgo lecture slides important good
+https://www.cs.princeton.edu/~wayne/kleinberg-tardos/
+Algorithm Princeton Very Good Resource::
+https://www.cs.princeton.edu/courses/archive/spring21/cos226/lectures.php
+https://www.cs.princeton.edu/courses/archive/spring18/cos423/lectures.php
+Algorithm 1 RObert Sedgewick
+https://www.youtube.com/playlist?list=PLUzV3BUIWD6cl8iNphKWDxkkrTnAkzxq-
+
+https://www.cs.princeton.edu/~wayne/teaching/
+
+Algorithm by Jeff Erickson
+https://jeffe.cs.illinois.edu/teaching/algorithms/#notes
+Algorithm CMU
+https://www.cs.cmu.edu/afs/cs/project/pscico-guyb/realworld/www/#notes
+https://www.cs.cmu.edu/~15451-f25/schedule.html
+Anupam Gupta Theoretical Computer Science
+https://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15251-s04/Site/
+
+Compiler Design CMU
+https://www.cs.cmu.edu/~janh/courses/411/24/schedule.html
+
+Programming Language Summer School Oregon State University
+https://www.cs.uoregon.edu/research/summerschool/summer16/curriculum.php
+Programming Language Theory very good
+https://www.cs.cornell.edu/courses/cs4110/2025fa/schedule.html
+
+Certified Software System theory for verification
+https://www.cs.cornell.edu/courses/cs6115/2024fa/
+
+Nat Foster Data Structure Very Good
+https://www.cs.cornell.edu/courses/cs2112/2022fa/?schedule
+https://www.cs.cornell.edu/courses/cs2112/2022fa/lectures/
+Java Introduction Very good cornell it has youtube
+https://www.cs.cornell.edu/courses/JavaAndDS/JavaStyle.html
+
+https://natefoster.org/oodds/lecture.html?id=recursion_lists
+
+OCML Programming 
+https://cs3110.github.io/textbook/chapters/preface/about.html
+
+Data Structure
+https://iudatastructurescourse.github.io/course-web-page-spring-2025/
+
+same with video
+https://iudatastructurescourse.github.io/course-web-page-spring-2024/
+
+Programming Language Concepts
+https://iucompilercourse.github.io/IU-Fall-2024/
+https://plfa.github.io/
+
+
+Programming Language Textbook
+https://papl.cs.brown.edu/2013/index.html
+
+Advanced Programming Language Theory
+https://www.cs.cornell.edu/courses/cs6110/2011sp/schedule.php
+Programming Language summer school graduate level
+https://www.cs.uoregon.edu/research/summerschool/summer16/curriculum.php
+Compiler Design CMU
+https://www.cs.cmu.edu/~janh/courses/411/23/schedule.html
+Haskell
+https://nptel.ac.in/courses/106106137
+https://learnyouahaskell.github.io/introduction.html
+
+
+Dive Into Python
+https://diveintopython3.net/
+
+Intro to Functional Programming 
+https://www.cmi.ac.in/~madhavan/courses/programming08/index.php
+
+Mahadev Mukhand India very good cs math
+https://www.cmi.ac.in/~madhavan/teaching.html
+
+Cornell Function Programming 
+https://www.cs.cornell.edu/courses/cs6110/2011sp/lectures/lecture01.pdf
+Bash Lecture series
+https://uppmax.github.io/linux-command-line-201/videos/
+https://uppmax.github.io/linux-command-line-201/sessions/intro/
+
+Code refinery
+https://coderefinery.github.io/data-visualization-python/python-basics/
+
+https://coderefinery.github.io/data-visualization-python/python-basics/#exercises
+
+https://ppc.cs.aalto.fi/
+
+High Performance Computing Exercise::
+https://ppc-exercises.cs.aalto.fi/course/hy2025/prereq
+
+Competitive Programming 
+https://plus.cs.aalto.fi/cs-e4595/2025/toc/
+
+Open MP and Parallel Computing 
+https://ppc.cs.aalto.fi/ch3/memory/
+
+Distributed Algorithm
+https://jukkasuomela.fi/da2020/
+
+
+Parallel Programming Lectures
+https://www.youtube.com/watch?v=qa0wGnmmMLI&list=PL2RY7P3JxZN-Pz1nwvnoJ9uEHmOmv4jmi&index=4
+
+Distributed Algorithms
+https://jukkasuomela.fi/da2020/
+
+Advanced ALgorithm Hard Stuff
+https://courses.csail.mit.edu/6.854/03/
+
+Scientific Machine Learning  related to numerical diffe
+https://book.sciml.ai/lectures/#lecture_and_notes
+
+Parallel Numerical ALgorithms
+https://courses.grainger.illinois.edu/cs554/fa2015/notes/index.html
+
+Scientific Computing with Python
+https://lectures.scientific-python.org/
+
+Michael T Heather Numerical Computing Lecture Slides
+https://heath.cs.illinois.edu/scicomp/notes/index.html
+
+High Performance Computing 
+https://github.com/trevor-vincent/awesome-high-performance-computing
+
+Scientific Computing in C++ have MPI
+https://education.scinet.utoronto.ca/mod/resource/view.php?id=3981
+
+Abrahim Lada Discrete and Algo very good with video
+https://faculty.cc.gatech.edu/~ladha/
+https://archive.org/details/cs3510su25/CS3510L01A.mp4
+
+Mathematical Puzzle
+https://play.google.com/books/reader?id=C7q6EAAAQBAJ&pg=GBS.PA4
+
+Automata Theory good
+https://www3.cs.stonybrook.edu/~pramod.ganapathi/CSE303.html
+
+Theoretical Computer Science And Algorithms
+https://www3.cs.stonybrook.edu/~pramod.ganapathi/
+
+Advanced Parallel Computinng 
+https://www3.cs.stonybrook.edu/~rezaul/CSE613-S19.html
+https://www3.cs.stonybrook.edu/~rezaul/CSE548-F23.html
+
+GOod CS Bengali Professor Algo and Parallel Computing 
+https://www3.cs.stonybrook.edu/~rezaul/
+
+MPI and other SUper COmputing stuff
+https://www3.cs.stonybrook.edu/~rezaul/CSE590-S16.html
+
+PARALLEL cOMPUTING 
+https://education.scinet.utoronto.ca/mod/resource/view.php?id=3781
+
+SCINET PARALLEL COMPUTING AND HIGH PERFORMANCE COMPUTING
+https://education.scinet.utoronto.ca/theme/scinet3/course/index2.php
+
+Rames Van JOn good scientific computing c++ and python 
+https://pages.scinet.utoronto.ca/~rzon/index.html
+
+Shell Lecture Not good English
+https://education.scinet.utoronto.ca/mod/resource/view.php?id=3317
+
+Scientific Computing very good
+https://education.scinet.utoronto.ca/course/section.php?id=1748#module-1496
+
+Quantum Computing 
+https://education.scinet.utoronto.ca/course/section.php?id=2408#module-2793
+https://education.scinet.utoronto.ca/course/view.php?id=1290
+last one more detailed
+
+Look only for thread may be good
+https://courses.grainger.illinois.edu/cs340/fa2025/examples.html
+
+C Tutorial KerningHan
+https://www.lysator.liu.se/c/bwk-tutor.html
+
+C intro 
+https://github.com/angrave/SystemProgramming/wiki/C-Programming%2C-Part-1%3A-Introduction
+
+System Programming good for cs 288
+https://github.com/angrave/SystemProgramming/wiki
+c good video
+https://cs-education.github.io/sys/#lessons
+
+C  and system programming 
+https://github.com/angrave/CS341-Lectures-FA23/tree/main/handouts
+
+https://github.com/angrave/CS341-Lectures-FA24/tree/main/handouts
+
+https://courses.grainger.illinois.edu/cs340/fa2023/schedule/
+
+
+C  machine to ide
+https://courses.grainger.illinois.edu/cs340/fa2024/text/
+
+Scientific Computing good
+https://education.scinet.utoronto.ca/mod/resource/view.php?id=1746
+
+
+Quantum Computing 
+https://courses.grainger.illinois.edu/cs498qcg/sp2025/
+
+Introduction To Theoretical Computer Science
+https://introtcs.org/public/lec_00_1_math_background.html
+https://introtcs.org/public/
+
+Quantum Computing
+https://pennylane.ai/codebook/introduction-to-quantum-computing/all-about-qubits
+
+Linear ALgebra Review
+https://www.3blue1brown.com/topics/linear-algebra
+
+Quantum Computing Markand Sinha Very Good very good and easy
+https://courses.grainger.illinois.edu/cs498qc3/fa2023/
+https://courses.grainger.illinois.edu/cs498qc3/fa2023/
+https://courses.grainger.illinois.edu/cs598qc/sp2024/
+Advanced Undergrad Algorithm and DS
+https://courses.grainger.illinois.edu/cs473/fa2024/lectures.html
+
+Video Lecture by Markand on ALgorithm
+https://mediaspace.illinois.edu/channel/x/352558652
+
+Cryptography
+https://courses.grainger.illinois.edu/cs407/fa2022/
+
+https://www.ccs.neu.edu/home/wichs/class/crypto-fall17/index.html
+
+Dikshita Khurana CS Lectures
+https://mediaspace.illinois.edu/channel/x/223561603
+Jeff Erickson Automata and algorithm together
+https://courses.grainger.illinois.edu/CS374AL1/fa2025/topics.html
+
+C++ Data Structures
+https://faculty.cs.niu.edu/~winans/CS501/Notes/
+
+Read Binary tree from here
+https://faculty.cs.niu.edu/~winans/CS501/
+
+Computer Architecture and other classes teaching professor good
+https://faculty.cs.niu.edu/~winans/
+
+Competitive Programming Princeton 
+https://cses.fi/problemset/
+
+Haskell Programming
+https://haskell.mooc.fi/part1#running-haskell
+
+
+learn x in y minutes
+https://learnxinyminutes.com/
+https://learnxinyminutes.com/bash/
+
+Physics computing with c++ very good
+https://education.scinet.utoronto.ca/mod/resource/view.php?id=3995
+Good Scientific computing tutorial pde diffusion
+https://sites.engineering.ucsb.edu/~moehlis/APC591/tutorials.html
+https://sites.engineering.ucsb.edu/~moehlis/APC591/tutorials/tutorial5/tutorial5.html
+
+MPI Very Good
+https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol2/lectures/mpi_c_course.pdf
+
+The Art of HPC
+https://github.com/VictorEijkhout/TheArtofHPC_pdfs/tree/main
+
+https://theartofhpc.com/pcse/
+
+scientific computing very good
+https://education.scinet.utoronto.ca/mod/resource/view.php?id=4005
+
+
+C Programming with ds algo
+very good
+https://web.engr.oregonstate.edu/~sinisa/courses/OSU/CS261/CS261Slides.html
+https://web.engr.oregonstate.edu/~sinisa/courses/OSU/CS261/
+
+
+
+https://web.engr.oregonstate.edu/~hessro/teaching/cs261-f25
+
+https://web.engr.oregonstate.edu/~hessro/teaching/cs261-f25
+
+Web development
+https://web.engr.oregonstate.edu/~hessro/teaching/cs290-f25
+
+Android App Development
+https://web.engr.oregonstate.edu/~hessro/teaching/cs492-w19
+
+https://web.engr.oregonstate.edu/~hessro/teaching
+
+Data Structure Visualization Very good
+https://visualgo.net/en/
+
+
+Discrete Math and Combinatorics
+https://www.math.clemson.edu/~macaule/
+
+Data Structure and Algo with discrete in C++
+https://courses.grainger.illinois.edu/cs225/fa2024/pages/lectures.html
+
+Math for CS very good algo chapter
+https://mfleck.cs.illinois.edu/building-blocks/index-sp2020.html
+
+C++
+https://learncpp.online/lessons
+
+C string very good
+https://icarus.cs.weber.edu/~dab/cs1410/textbook/strings.html
+
+
+May be good for networking // WWW
+https://courses.cs.washington.edu/courses/cse154/25au/calendar/index.html#week1
+good
+https://courses.cs.washington.edu/courses/cse154/13sp/lectures.shtml#today
+Marty Stepp ALgorithm Very good Java
+
+https://courses.cs.washington.edu/courses/cse373/13wi/lectures.shtml#today
+
+Marty Stepp Very GOod CS Lecturer
+https://www.martystepp.com/teaching.php
+
+Sliding Window Technique Video 24
+https://www.youtube.com/playlist?list=PLezlz_6l_jm0gMynmHFmsXfjQFxmt3INC
+
+Thread Check 
+https://www.youtube.com/playlist?list=PLkprqGeo3TeliY0rhmJsfGRmb9j4VuajW
+
+Threads ANgrave
+https://github.com/angrave/SystemProgramming/wiki/Pthreads%2C-Part-1%3A-Introduction
+
+https://github.com/angrave/CS341-Lectures-SP25/blob/main/handouts/CS341-05-ExecForkEnviron.pdf
+
+Operating Systems Good
+https://courses.grainger.illinois.edu/cs241/fa2012/
+https://courses.grainger.illinois.edu/cs241/fa2013/
+
+Computer Systems CS 350
+https://courses.grainger.illinois.edu/cs340/sp2023/schedule/
+Data Structure
+https://courses.grainger.illinois.edu/cs225/fa2025/pages/lectures.html
+
+Operating System in Detail
+https://courses.grainger.illinois.edu/cs423/sp2021/schedule/
+
+Computer systems 
+https://courses.grainger.illinois.edu/cs340/sp2023/
+
+operating system lectures
+https://courses.grainger.illinois.edu/cs340/sp2023/
+
+
+Data Science Very Good Wade Fagen
+https://discovery.cs.illinois.edu/
+
+C good review wade fagen 
+https://systems-encyclopedia.cs.illinois.edu/articles/c-strtok/
+
+DS Wade Fazen 
+https://courses.grainger.illinois.edu/cs225/sp2019/pages/lectures.html
+
+https://courses.grainger.illinois.edu/cs225/fa2025/pages/lectures.html
+
+https://waf.cs.illinois.edu/
+
+MPI Good Review John Urbanic
+https://mediaspace.illinois.edu/media/t/1_xedeorf6
+
+Operating System good
+https://courses.grainger.illinois.edu/cs423/sp2019/schedule.html
+
+https://courses.grainger.illinois.edu/cs423/sp2015/schedule.html
+
+C ::
+https://systems-encyclopedia.cs.illinois.edu/
+
+Compiler and Language: lam good
+
+https://w3.cs.jmu.edu/lam2mo/cs432_2025_08/calendar.html
+
+comp system lam good
+https://w3.cs.jmu.edu/lam2mo/cs261_2016_08/calendar.html
+
+MPI
+https://w3.cs.jmu.edu/lam2mo/cs470_2025_01/calendar.html
+https://w3.cs.jmu.edu/lam2mo/cs470_2025_01/calendar.html
+
+OS
+https://www.cs.usfca.edu/~mmalensek/cs326/schedule/
+
+Parallel COmputing and MPI very good
+https://www.cs.usfca.edu/~mmalensek/cs220/schedule/
+
+graduate os -->has good c
+https://www.cs.usfca.edu/~mmalensek/cs521/schedule/
+
+Big data graduate:
+https://www.cs.usfca.edu/~mmalensek/cs686/schedule/
+
+CS 288
+https://www.teach.cs.toronto.edu/~ajr/209/video/
+https://www.cs.toronto.edu/~kianoosh/courses/csc209/
+good
+https://github.com/rhubarbwu/csc209?tab=readme-ov-file
+
+Parallel Computing ::
+https://passlab.github.io/CSCE569/#schedule
+
+Lots of good math 
+https://matthematics.com/
+
+
+good c and os
+https://www.cs.usfca.edu/~mmalensek/cs521/schedule/
+https://www.cs.usfca.edu/~mmalensek/cs326/schedule/
+
+OS cartoons
+https://drawings.jvns.ca/
+https://jvns.ca/
+https://wizardzines.com/#experiments
+
+computer security
+https://people.cs.rutgers.edu/~pxk/classes/419/notes/index.html
+
+
+Distributed Systems 
+https://people.cs.rutgers.edu/~pxk/classes/417/notes/index.html
+
+Good OS and distributed computing 
+https://lectureweb.github.io/CS352ComputerNetworking/cs/index.html
+
+Alfred Aho lectures and book
+http://infolab.stanford.edu/%7Eullman/focs.html
+https://www.cs.columbia.edu/~aho/cs3261/
+https://www.cs.columbia.edu/%7Eaho/cs4115/
+good for the automata theory
+https://www.cs.columbia.edu/~tal/3261/fall24/index.html#quiz 
+
+good for automata columbia
+https://www.cs.columbia.edu/~tal/3261/fall24/index.html#handouts
+automata lecture spiser
+https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/video_galleries/video-lectures/
+
+Automata Theory Lecutre very good columbia
+https://www.youtube.com/@timrandolph5868/playlists
+https://twrand.github.io/3261-sum23.html
+https://www.cs.columbia.edu/~tal/3261/fall22/index.html
+https://www.cs.columbia.edu/~toni/Courses/CSTheory2023/index.html
+
+Algorithm by Robert Tarjan
+https://www.cs.princeton.edu/courses/archive/spring04/cos423/#HO
+https://www.cs.princeton.edu/courses/archive/spring05/cos423/lectures.php
+Tarjan again good
+https://www.cs.princeton.edu/courses/archive/spring08/cos423/lectures.htm
+https://www.cs.princeton.edu/courses/archive/spring18/cos423/lectures.php
+https://www.cs.princeton.edu/~wayne/cs423/
+
+Intro DS algo princeton
+https://www.cs.princeton.edu/courses/archive/fall25/cos226/lectures.php
+
+https://www.cs.princeton.edu/courses/archive/spring24/cos226/exams.php
+
+Networking and computer system not so good
+https://cos316.princeton.systems/lectures.html
+https://www.cs.princeton.edu/courses/archive/fall24/cos316/lectures.html
+https://www.cs.princeton.edu/courses/archive/fall19/cos316/#lectures
+https://cos316.princeton.systems/lectures.html
+
+
+
+Numerical Computing princeton
+https://www.cs.princeton.edu/courses/archive/spring21/cos302/
+
+https://www.cs.princeton.edu/courses/archive/fall23/cos302/
+
+https://www.cs.princeton.edu/courses/archive/spring20/cos302/
+
+
+Compiling Technique
+https://www.cs.princeton.edu/courses/archive/spring20/cos320/
+https://www.cs.princeton.edu/courses/archive/spring19/cos320/
+https://www.cs.princeton.edu/courses/archive/spring18/cos320/lectures/
+
+https://www.cs.princeton.edu/courses/archive/spring24/cos320/
+
+spring 24 may be better
+
+Advanced Programming 
+https://www.cs.princeton.edu/courses/archive/fall25/cos333/lectures.html
+good one below several language
+https://www.cs.princeton.edu/courses/archive/spring16/cos333/lectures.html
+
+Kerninghan 
+https://www.cs.princeton.edu/courses/archive/spring19/cos333/
+
+Computer Architecture David August
+https://www.cs.princeton.edu/courses/archive/fall15/cos375/lectures/
+
+Machine Learning 
+https://princeton-introml.github.io/index.html
+
+Operating System 
+https://www.cs.princeton.edu/courses/archive/spring25/cos417/
+C programming 
+https://www.cs.princeton.edu/courses/archive/fall21/cos217/schedule.html
+
+https://www.cs.princeton.edu/courses/archive/fall25/cos217/classes.php
+
+https://www.cs.princeton.edu/courses/archive/fall24/cos217/classes.php
+
+Intro to computing 
+https://www.cs.princeton.edu/courses/archive/fall25/cos126/schedule/
+
+All princeton cs courses
+https://www.princeton.edu/academics/area-of-study/computer-science
+
+
+Operating System Review:
+https://www.cs.usfca.edu/~mmalensek/cs326/schedule/
+
+
+Matlab and Linear Numerical Linear Very good texas
+http://www.ulaff.net/
+
+For MPI and Thread Must Before the exam
+https://www.cs.usfca.edu/~mmalensek/cs220/schedule/
+https://matthew.malensek.net/teaching/
+
+Computer Science Exams Very Good
+https://www.boilerexams.com/courses/CS25100/topics
+https://www.boilerexams.com/courses/CS15900/topics
+
+Good For C and CS 288
+https://purs3lab.github.io/ece264/schedule/
+
+Very good CS professor for OS/HPC/SYSTEM ENGG
+https://matthew.malensek.net/teaching/
+
+Rust Programming Language::
+https://doc.rust-lang.org/book/title-page.html
+
+Mathew Malensek Big Data::
+https://www.cs.usfca.edu/~mmalensek/cs686/schedule/
+
+##Mathew Malensek Parallel Programming 
+https://www.cs.usfca.edu/~mmalensek/cs220/schedule/
+
+Java Material For the next semester:
+https://www.cs.usfca.edu/~srollins/courses/cs112-f07/web/calendar.html
+
+Software Development 
+https://usf-cs212-spring2021.github.io/schedule.html
+below one has video lessons
+https://usf-cs272-fall2021.github.io/schedule.html
+
+###Computer Organization and Architecture
+very good and detailed for cs 350
+https://web.stanford.edu/class/cs107/
+
+Operating System Exams
+https://www.scs.stanford.edu/10wi-cs140/exams/index.html
+Class materials for OS
+https://www.scs.stanford.edu/22wi-cs212/notes/
+
+Operating Systems book 
+https://opencsf.org/Books/csf/html/
+
+Programming IN C Very good
+https://users.cs.cf.ac.uk/Dave.Marshall/C/CE.html
+
+Operating System Resource 
+https://users.cs.jmu.edu/abzugcx/Public/Operating-Systems/URLs-on-Operating-Systems.pdf
+https://users.cs.jmu.edu/abzugcx/Public/Operating-Systems/
+
+Parallel Systems Dr Lam 
+https://w3.cs.jmu.edu/lam2mo/cs470_2018_01/index.html
+
+Parallel Programming Lectures Professor Mary
+https://edoras.sdsu.edu/~mthomas/sp17.605/lectures/
+
+Good Discrete Math Lectures with Matrix and Automata
+https://cse.msu.edu/~pramanik/teaching/courses/cse260/11s/lectures/
+
+Good Advanced Data-Base::
+https://cse.msu.edu/~pramanik/teaching/courses/cse880/14f/lectures/
+
+Good For NUmerical and Scientific comp and digital circuit
+https://www.ece.mcmaster.ca/~xwu/
+
+Signal Processing Stanford
+https://web.stanford.edu/class/ee269/slides.html
+
+Signal Intro Michigan
+https://www.eecs.umich.edu/courses/eecs206/public/lec/
+
+Optimization For EEE
+https://web.eecs.umich.edu/~fessler/course/600/l/
+
+Computer Science Good Intro
+https://dcic-world.org/2025-08-27/index.html
+
+Programming Language Sriram 
+Advanced
+https://www.cs.cornell.edu/courses/cs6110/2011sp/schedule.php
+
+Intro
+https://www.cs.cornell.edu/courses/cs4110/2025fa/schedule.html
+
+Types Logic and Formal Methods
+https://www.cs.uoregon.edu/research/summerschool/summer25/topics.php#amin
+
+Nada Amin Theory of Programming Language:
+https://groups.seas.harvard.edu/courses/cs152/2025sp/schedule.html
+
+Fucntional Programming Intro
+https://www.cs.cornell.edu/courses/cs3110/2019sp/schedule.html
+
+https://cornellcswiki.gitlab.io/classes/CS3110.html
+
+https://cs3110.github.io/textbook/cover.html
+
+Java Harvard
+https://www.cs.cornell.edu/courses/cs2110/2017fa/lecturenotes.html
+
+Good CS Material, language, python and intro data science
+https://sites.coecis.cornell.edu/clarkson/teaching/
+
+python good lectures:
+https://cs1110.cs.cornell.edu/files/video/
+
+Data Science Intro
+https://www.cs.cornell.edu/courses/cs1380/2018sp/schedule.html
+
+Allen Downey
+https://greenteapress.com/wp/
+
+Ocaml cornell
+https://cs3110.github.io/textbook/chapters/intro/intro.html
+
+Functional Programming In Haskel Oxford 
+https://www.inf.ed.ac.uk/teaching/courses/inf1/fp/
+
+Python Videoes Cornell good
+https://vod.video.cornell.edu/channel/CS%2B1110%2BFall%2B2020/179890731
+
+Matlab Cornell:
+https://www.cs.cornell.edu/courses/cs1112/2014fa/
+
+Matlab Short Course Cornell:
+https://www.cs.cornell.edu/courses/cs1132/2021fa/lecture.html
+
+Python Short Course Cornell:
+https://www.cs.cornell.edu/courses/cs1133/2020sp/lectures/index.php
+
+Computer Systems Cornell
+https://www.cs.cornell.edu/courses/cs3410/2025fa/
+
+Numerical linear Algebra cornell
+https://www.cs.cornell.edu/courses/cs4220/2023sp/schedule.html
+
+Linear Algebra and Matrix computation 
+https://www.cs.cornell.edu/courses/cs6210/2025fa/schedule.html
+
+Advanced System Programming in C++ Cornell very good 
+slides, video and recitation
+https://www.cs.cornell.edu/courses/cs4414/2024fa/Schedule.htm
+
+computer architecture cornell
+https://www.csl.cornell.edu/courses/ece4750/handouts.shtml
+
+System Security Professor Clarkson Cornell::
+https://www.cs.cornell.edu/courses/cs5430/2017sp/
+
+Data Science Intro Cornell::
+https://www.cs.cornell.edu/courses/cs1380/2018sp/schedule.html
+
+Unix and Shell Cornell::
+https://www.cs.cornell.edu/courses/cs2043/2015sp/index.shtml
+better one::
+https://www.cs.cornell.edu/courses/cs2043/2014sp/
+
+Ocaml Princeton ::
+https://www.cs.princeton.edu/~dpw/courses/cos326-12/lectures.php
+https://www.cs.princeton.edu/~dpw/courses/cos326-12/notes/basics.php
+
+Data Structure Princeton David Walker::
+https://www.cs.princeton.edu/courses/archive/spring11/cos226/lectures.php
+
+Programming Language Princeton ANdrew Appel
+https://www.cs.princeton.edu/courses/archive/fall09/cos441/schedule.php
+
+Computer Science Video Lectures good for cs 350
+https://github.com/Developer-Y/cs-video-courses?tab=readme-ov-file#theoretical-cs-and-programming-languages
+
+
+Ocaml new Andrew Apple
+https://www.cs.princeton.edu/courses/archive/fall23/cos326/schedule.php
+
+
+Cambridge Algorithm
+https://www.cl.cam.ac.uk/teaching/1617/Algorithms/materials.html
+
+Scientific Computing Cambridge::
+https://www.cl.cam.ac.uk/teaching/2425/SciComp/materials.html
+
+Cambridge All CS courses::
+https://www.cl.cam.ac.uk/teaching/2425/part1a.html
+
+OCaml Intro UPENN
+https://www.seas.upenn.edu/~cis120/25fa/schedule/
+
+OCaml Advance UPENN
+https://www.seas.upenn.edu/~cis120/archive/22sp/schedule/
+
+Advanced Discrete Math UPENN
+https://www.cis.upenn.edu/~cis1600/current/recitations.html
+
+https://www.cis.upenn.edu/~cis1600/current/lectures.html
+
+Advanced Programming in Haskel upenn
+https://www.seas.upenn.edu/%7Ecis5520/23fa/schedule.html
+
+Many Programming Language Theory Courses in course sections
+http://pl.cs.jhu.edu/
+
+Ocaml and Theory of Programming Mammat
+https://cmsc330.github.io/index.html
+https://bakalian.cs.umd.edu/cmsc330/slides
+https://kauffman77.github.io/330/
+Advance Language 
+https://www.cs.umd.edu/class/fall2025/cmsc433/Schedule.html
+Compiler
+https://www.cs.umd.edu/class/spring2025/cmsc430/Schedule.html
+
+C UMD
+https://www.cs.umd.edu/~profk/216/schedule.html
+
+Machine Architecture
+https://www-users.cse.umn.edu/~kauffman/2021/schedule.html
+
+Intro to Parallel Computing 
+https://www-users.cse.umn.edu/~kauffman/5451/schedule.html
+
+Operating Systems
+https://www-users.cse.umn.edu/~kauffman/4061/schedule.html
+
+Ocaml and Language::
+https://www-users.cse.umn.edu/~kauffman/2041/schedule.html
+
+Java::
+https://www-users.cse.umn.edu/~kauffman/1103/schedule.html
+
+Discrete Structure::
+https://www-users.cse.umn.edu/~kauffman/2011/schedule.html
+
+Data Structure ::
+https://cs.gmu.edu/~kauffman/cs310/lectures.html
+
+Parallel Programming 
+https://cs.gmu.edu/~kauffman/cs499/lectures.html
+
+Intro to CS
+https://cs.gmu.edu/~kauffman/cs100/lectures.html
+
+C basics
+https://cs.gmu.edu/~kauffman/cs222/lectures.html
+
+Digital Logic in Minecraft
+https://cmsc-389e.github.io/digital-logic-computer-architecture-minecraft/index.html
+
+https://cmsc-389e.github.io/digital-logic-computer-architecture-minecraft/index.html
+
+Pure Mathematics High School too
+https://zaco.au/lib/math/
+
+Functional Programming CMU
+https://www.cs.cmu.edu/~15150/lect.html
+
+Algorithm Intro
+https://www.cs.rochester.edu/u/gildea/csc282/
+
+All of computer graphics courses purdue also ds 251
+https://www.cs.purdue.edu/cgvlab/courses/
+
+Rutgers CS 350 similar to njit
+https://yipenghuang.com/teaching/2021-spring/
+with exam 
+https://github.com/Shubham8037/Rutgers-CS-211/tree/master/Lectures
+https://people.cs.rutgers.edu/~mp2099/courses/cs211-s25/schedule.html
+https://courses.knox.edu/cs214/
+
+C book
+https://publications.gbdirect.co.uk/c_book/copyright.html
+https://publications.gbdirect.co.uk/c_book/
+
+Google Data Structure::
+https://github.com/google/applied-data-structures-algorithms/tree/main
+
+Advanced Programming Pattern for the interview::
+https://github.com/Chanda-Abdul/Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews/tree/main
+
+DSA booklist
+https://github.com/gowtamkumar/DSA-Books
+https://github.com/0bprashanthc/algorithm-books
+
+Grokking Data Structures
+https://learning.oreilly.com/library/view/grokking-data-structures/9781633436992/OEBPS/Text/03.html#heading_id_3
+
+Machine Learning Solution Manual::
+https://github.com/ageron/handson-ml3
+
+Free Code Camp Python
+https://www.freecodecamp.org/learn/python-v9/
+
+MIT Algorithm 
+https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/pages/lecture-notes/
+
+MIT Java and Software Constructions
+https://ocw.mit.edu/ans7870/6/6.005/s16/
+https://stellar.mit.edu/S/course/6/sp13/6.005/materials.html
+
+Scientific Computing Texas::
+https://hprc.tamu.edu/training/index.html
+
+Numerical Computing with Matlab::
+https://www.mathworks.com/moler/chapters.html
+
+Cambridge CS Notes and Lecture slides:
+https://www.cl.cam.ac.uk/teaching/2223/
+https://www.cl.cam.ac.uk/~jdy22/
+
+Discrete Math Short Inro two books
+https://cseweb.ucsd.edu/~gill/BWLectSite/
+
+Theoretical Computer Science and Discrete Math
+Very good actually
+https://cseweb.ucsd.edu/~gill/
+
+Linux Terminal
+https://pld.cs.luc.edu/courses/141/sum25/
+
+Computer Systems CS 350 Types
+https://pld.cs.luc.edu/courses/264/spr19/
+
+Data Structure look for trees
+https://pld.cs.luc.edu/courses/271/fall18/
+
+Stanford Lectures on Shell and Unix
+https://web.stanford.edu/class/archive/cs/cs45/cs45.1234/lectures/
+
+Norman Matloff CS 
+https://heather.cs.ucdavis.edu/matloff/public_html/unix.html
+
+Theoretical Computer Science 
+https://cseweb.ucsd.edu/~gill/
+
+Computer Network good waterloo
+https://mina.arashloo.net/courses/CS456-F24/
+
+Programmable Network and Transport Layer Detailed 
+https://mina.arashloo.net/
+
+Computer Network Cornell
+https://www.cs.cornell.edu/courses/cs4450/2025sp/schedule.html
+
+Operating Systems Cornell
+https://www.cs.cornell.edu/courses/cs4410/2021fa/schedule.html
+
+Princeton Old Networking 
+https://www.cs.princeton.edu/courses/archive/spring06/cos461/#schedule
+
+New
+https://www.cs.princeton.edu/courses/archive/fall20/cos461/schedule.html
+
+Assembly and C good princeton
+https://www.cs.princeton.edu/courses/archive/fall19/cos217/schedule.html
+
+https://www.cs.princeton.edu/courses/archive/fall05/cos217/schedule.html
+
+Computer Networks for Machine Learning 
+http://www.cs.toronto.edu/~yganjali/teaching/csc2229-winter-2026/
+
+Computer Network Old detailed telephone
+https://www.cs.cornell.edu/skeshav/book/slides/
+
+Network with socket python 
+https://www.science.smith.edu/~jcardell/Courses/CSC249/
+
+CS 45 Intro to all cs stanford 
+https://web.stanford.edu/class/cs45/lectures/
+
+Computer Network Petterson 
+https://book.systemsapproach.org/foundation/software.html#socket-api
+
+Computer Network Cambridge 
+https://www.cl.cam.ac.uk/teaching/2324/CompNet/materials.html
+
+https://www.cl.cam.ac.uk/teaching/2526/CompNet/materials.html
+
+Cambridge all cs 
+https://www.cl.cam.ac.uk/teaching/2526/part1b.html
+
+Computer Architecture Havard 
+https://www.eecs.harvard.edu/cs146-246/
+
+Network Interactive text
+https://4ed.computer-networking.info/syllabus/default/hosts/introduction.html
+
+
+Programming On Web University of Toronto
+https://www.cs.toronto.edu/~kianoosh/courses/csc309/#schedule
+
+older
+http://www.cs.toronto.edu/~mashiyat/csc309/Lectures/Lecture1.pdf
+
+https://web.archive.org/web/*/http://www.cs.toronto.edu/~mashiyat/csc309/Lectures/*
+
+http://www.cs.toronto.edu/~mashiyat/csc309/index.htm#feedback
+
+
+
+System Programming 
+https://www.cs.toronto.edu/~kianoosh/courses/csc209/
+https://github.com/rhubarbwu/csc209?tab=readme-ov-file
+http://www.cs.toronto.edu/~krueger/csc209h/lectures/
+
+Old Algo and complexity cs
+http://www.cs.toronto.edu/~krueger/school.html
+
+
+
+Intro To CS with Python 
+https://www.cs.toronto.edu/~david/course-notes/csc110-111/
+
+https://www.teach.cs.toronto.edu/~csc148h/notes/
+
+Good Data Structure good for AVL
+http://www.cs.toronto.edu/~toni/Courses/263-2015/lectures.html
+
+Computability and Logic
+http://www.cs.toronto.edu/~toni/Courses/438-2019/438.html
+
+Theoretical Computer Science
+http://www.cs.toronto.edu/~toni/
+
+Data Structure 
+https://mcs.utm.utoronto.ca/~263/jessica/lecture1.pdf
+
+Communication Networks 
+https://courses.grainger.illinois.edu/cs438/sp2018/schedule.html
+
+Communication Networks using Ross book
+https://courses.grainger.illinois.edu/cs438/fa2021/
+
+with videos for freshman networking 
+https://courses.grainger.illinois.edu/ece101/sp2022/#calendar
+
+Wireless Networks 
+https://courses.grainger.illinois.edu/CS439/fa2025/schedule.html
+
+https://people.cs.pitt.edu/~xex1/Lect-Notes.html
+
+
+
+Computer Network with video ross style
+https://rrc-uiuc.notion.site/Communication-Networks-F23-d37ef65a3d1b4b7ba3d49d929c03d546
+
+Linear Algebra and Probability for cs
+https://rrc-uiuc.notion.site/Real-World-Algorithms-for-IoT-and-Data-Science-Sp24-1b94156dae404cb3a1c3e22073618d4e
+
+Generative AI
+https://rrc-uiuc.notion.site/gen-models-sp26
+
+Communication Networks related eee comm
+https://users.eecs.northwestern.edu/~rberry/ECE333/Lectures/
+
+Telecommunication 
+https://www.montana.edu/aolson/eele445/
+
+Lots of good cs systems with videos
+https://users.cs.utah.edu/~mflatt/selected-courses.html
+https://users.cs.utah.edu/~mflatt/courses.html
+
+CS with videos
+https://github.com/Developer-Y/cs-video-courses
+
+https://github.com/Developer-Y/cs-video-courses
+
+Computer Organizations and Systems (similar to cs 350)
+https://web.stanford.edu/class/archive/cs/cs107/cs107.1248/
+
+Computer Systems 
+https://www.stanwarford.com/ComputerSystems/index.html#a1
+
+Lots of Networks 
+https://sites.radford.edu/~hlee3/classes/
+
+
+Computer Systems similar to cs 350 with network programming 
+https://www.cs.cmu.edu/afs/cs/academic/class/15213-s12/www/schedule.html
+
+CS 50 with C and network
+https://www.cs.dartmouth.edu/~cs50/Lectures/
+
+Good System Programming and Java
+https://people.scs.carleton.ca/~lanthier/teaching/teaching.html
+
+https://people.scs.carleton.ca/~lanthier/teaching/
+
+Operating Systems: waterloo
+https://eceweb.uwaterloo.ca/~smzahedi/crs/se350/#res
+
+Numerical Analysis Uwaterloo
+https://ece.uwaterloo.ca/~dwharder/nm/Lecture_materials/
+https://ece.uwaterloo.ca/~dwharder/
+
+Data Structures algo
+https://ece.uwaterloo.ca/~cmoreno/ece250/slides.shtml
+
+Some Math
+https://www.math.uwaterloo.ca/~snew/
+
+Theory of Computation may be easy
+https://www.cs.williams.edu/~tom/courses/361/syllabus20_3.html
+
+Intro to cs with network in java
+https://www.cs.williams.edu/~tom/weavingCS/s07/lectures.html
+
+Computer Network Italian
+https://www-sop.inria.fr/members/Vincenzo.Mancuso/ReteInternet.html
+
+Machine Learning 
+https://www.cs.huji.ac.il/~shais/IML2014.html
+
+Computer Interfacing 
+https://www.cse.chalmers.se/~svenk/IT_university/embedded_systems/lectures/index.html
+
+Data Structure Algorithm very good old prof
+http://www.vernon.eu/DSA.htm#notes
+
+Lots of COmputer science architecture operating systems
+http://www.vernon.eu/teaching.htm#computers
+
+Windows System Programming 
+https://www.malware.org/SWE5320.html
+
+Lots of Computer courses with networking 
+https://cs.lmu.edu/~ray/
+
+Professor Stewart CS courses has intro to git and unix good ds
+https://www.cs.hunter.cuny.edu/~sweiss/courses/csci795.24.php
+https://www.cs.hunter.cuny.edu/~sweiss/course_materials/
+
+Good Java Advanced too
+https://medvet.inginf.units.it/slides/advanced-programming-2223/#121
+
+https://medvet.inginf.units.it/teaching/
+
+Digital Systems 
+https://spivey.oriel.ox.ac.uk/corner/Lecture_notes_(Digital_Systems)#Assembly-language_programming
+
+Good language
+https://spivey.oriel.ox.ac.uk/corner/Welcome
+
+Computer Graphics
+https://cseweb.ucsd.edu/~alchern/teaching/cse167_wi26/
+
+Advanced Computer Graphics with manifold
+https://cseweb.ucsd.edu/~alchern/teaching/cse270_fa25/
+
+All CS classes University of California
+https://cseweb.ucsd.edu/classes/fa25/
+
+https://cseweb.ucsd.edu/classes/
+
+Machine Learning with linear algebra good
+https://cseweb.ucsd.edu/~dasgupta/151a/lectures.html
+
+
+Category theory and other stuff 
+has also functional programming in haskel
+https://people.cs.nott.ac.uk/pszgmh/
+
+
+Think Linear Algebra
+https://allendowney.github.io/ThinkLinearAlgebra/index.html
+
+Allen Downey
+https://github.com/AllenDowney
+
+Data Analysis One and Two in Python Very Good
+https://cs.colby.edu/courses/S25/cs251/notes_cs252.html
+https://cs.colby.edu/courses/S25/cs251/notes_cs251_srt.html
+
+Programming Language Concepts Easy
+https://cs.colby.edu/courses/S25/cs333/notes.html
+https://homepage.divms.uiowa.edu/~slonnegr/plf/Book/
+
+Computer Network and Advanced Network easy may not be good
+https://cs.colby.edu/courses/F23/cs331/notes.html
+
+Computer Organization Easy
+https://cs.colby.edu/courses/F24/cs232/notes.html
+
+DS Algo Easy with Java
+https://cs.colby.edu/courses/S18/cs231/notes.html
+
+Good DS Algo in Java
+https://courses.cs.vt.edu/cs3114/Spring18/wmcquain/
+
+Advanced Algorithm Undergrad good
+https://bioinformatics.cs.vt.edu/~murali/teaching/2018-fall-cs5114/
+
+R Video Lessons
+https://cs.colby.edu/courses/S22/cs125/assignments.php
+
+CS courses Colby College
+https://cs.colby.edu/courses.php
+
+Matlab may be good
+https://users.cs.utah.edu/~germain/PPS/Topics/index.html
+
+Linear Algebra and Other handwritten math good
+https://faculty.utrgv.edu/eleftherios.gkioulekas/Teaching/notes.html
+
+Eightenth Century Novels Lecture notes Jane Austen too
+http://www.sfu.ca/~delany/courses/322.html
+
+Mathematics of Finance  option theory
+https://www.maths.dur.ac.uk/users/clare.wallace/MF/
+
+Probability Lecture Notes
+https://www.maths.dur.ac.uk/users/clare.wallace/Prob1/
+
+Mathematics Of Finance Lecture Videos
+https://ocw.uci.edu/courses/math_176_math_of_finance.html
+
+Probability Lecture Slides
+https://www.math.purdue.edu/~esampert/416/cal
+
+Theory of Computing and Automata very good
+https://jhwatrous.github.io/books-and-courses.html
+
+
+Good Background For Exam P combinatorics plus stat 1 and 2
+https://sites.math.rutgers.edu/~sc2518/teaching.html
+
+https://sites.math.rutgers.edu/~wcf17/combinatorics454.html
+
+https://torsor.org/probability/lectures/
+
+https://sites.math.rutgers.edu/~zeilberg/math454_20.html
+
+Actuarial Exam 
+https://www.stochiki.com/wiki/Category:Actuarial_Science
+
+https://instruction.bus.wisc.edu/jfrees/UWCAELearn/default.aspx
+
+Latex Lectures
+https://courses.maths.ox.ac.uk/course/view.php?id=3995
+
+Economics Handwritten Notes
+https://www.sfu.ca/~kkasa/
+
+
+Computer Network Berkley video too
+https://sp25.cs168.io/
+
+https://sp26.cs168.io/
+
+https://fa18.cs168.io/
+
+https://github.com/pocs-epfl/public/blob/main/README.md
+
+https://textbook.cs168.io/intro/links.html
+
+Networking Exam 
+https://sp25.cs168.io/resources/
+
+Networking Barkley with exams
+https://fa22.cs168.io/
+
+https://sp20.cs168.io/
+
+
+Networking Course Book University of Berkley
+https://textbook.cs168.io/intro/intro.html
+
+
+CS 350 with video
+https://www.cs.cmu.edu/afs/cs/academic/class/15213-f15/www/schedule.html
+
+Operating Systems CMU
+https://www.cs.cmu.edu/~410-s14/lecture.html
+
+Computer Networks CMU
+https://computer-networks.github.io/fa19/lectures.html
+
+Numerical Computing (same teacher has computer graphics and cs based physics material)
+https://www.cs.cmu.edu/~15369-f25/
+
+Computer Networks good data link
+https://users.eecs.northwestern.edu/~rberry/ECE333/Lectures/
+
+Ross Slides for Computer Networks
+https://www.sfu.ca/~ljilja/ENSC835/News/Kurose_Ross/
+https://www.sfu.ca/~ljilja/ENSC427/News/Kurose_Ross/
+
+Computer Network Sample Exams
+https://www.sfu.ca/~ljilja/ENSC427/sample_exams/index.html
+https://www.sfu.ca/~ljilja/ENSC427/sample_exams/index.html
+
+Computer Network Slides Leon Garcia Text
+https://www.sfu.ca/~ljilja/ENSC427/Spring09/News/Leon-Garcia_Widjaja/
+
+Computer network
+https://www.eecs.yorku.ca/course_archive/2007-08/S/3213/Lectures/
+
+York University CS courses
+https://www.eecs.yorku.ca/course_archive/
+
+Lots of Data Structure, Algorithm, Discrete, and Language::
+https://www.eecs.yorku.ca/~wangcw/teaching/lectures/index.html#EECS3342_W23
+
+Matlab Lectures Must Try to learn soon
+https://www.eecs.yorku.ca/course_archive/2024-25/F/1560A/index.php?load=1
+
+Computer Networks and Other course realted to arch and network
+https://web.cs.wpi.edu/~rek/Nets1/A15/A15.html
+
+C programming 
+https://web.cs.wpi.edu/~rek/Systems/A14/A14.html
+
+Computer Networking Courses 
+https://web.cs.wpi.edu/~rek/#courses
+
+Computer Science with video Lectures:
+https://github.com/Developer-Y/cs-video-courses
+
+Computer Systems similar to cs 350
+https://www.eecg.utoronto.ca/~enright/teaching/ece243S/notes/
+
+System Programming IN C and C++
+https://web.cs.wpi.edu/~rek/Systems/C08/C08.html
+
+Machine Learning with Physics 
+https://compphysics.github.io/MachineLearning/doc/LectureNotes/_build/html/intro.html
+
+C++ Tutorial for Physics 
+https://compphysics.github.io/ComputationalPhysics/doc/pub/learningcpp/html/learningcpp-bs.html
+
+Computational Physics 
+https://compphysics.github.io/ComputationalPhysicsMSU/doc/web/course
+
+Computational Physics with Numerical better
+http://compphysics.github.io/ComputationalPhysics/doc/web/course
+
+Numerical Very good (Must complete please)
+https://cs357.cs.illinois.edu/textbook/notes/vec-mat.html
+
+Numerical Linear Algebra, Machine Learning, and Stochastics
+https://web.stanford.edu/~boyd/
+
+Advanced Linear Algebra
+https://lall.stanford.edu/
+
+Linear Algebra (May be Abstract)
+https://palbin.web.illinois.edu/Math416.Spring2026/Lectures.html
+
+
+Linear Slides
+https://www.cs.toronto.edu/~bonner/courses/2018s/csc338/lectures/index.html
+
+MIT Missing Semester
+https://missing.csail.mit.edu/past/
+
+Wireless Communication Network
+https://www.uvm.edu/~muse/
+
+COBOL lecture Notes
+https://github.com/AndresCdo/cobol-crash-course?tab=readme-ov-file
+
+Signal Processing and Wireless Communication 
+https://github.com/WeitaoZhu/Communications_System/blob/master/Digital.Communications.Fundamentals.and.Applications.2nd.Edition.(z-lib.org).pdf
+
+Signals and Systems background math
+https://www.commsp.ee.ic.ac.uk/~tania/teaching/Maths%20for%20Signals%20and%20Systems.html
+
+
+Digital Image Processing 
+https://www.commsp.ee.ic.ac.uk/~tania/teaching/DIP.html
+
+Signals and Systems Math and lectures 
+https://www.commsp.ee.ic.ac.uk/~tania/teaching/Maths%20for%20Signals%20and%20Systems.html
+
+Digital Signal Processing 
+https://www.commsp.ee.ic.ac.uk/~tania/teaching/dsp/
+
+Circuit and Electro Magnetic Theory good 
+https://adityamuppala.github.io/teaching210/
+
+Numerical Computation and Data Science
+https://tobydriscoll.net/
+
+
+Numerical Differential Equations
+https://tobydriscoll.net/fd-spectral-notes/intro.html
+
+Very good Linear Algebra
+http://www.ulaff.net/
+
+#Computer Networks
+https://users.cs.utah.edu/~mflatt/cs6014/
+
+Computer Science with videos good system os
+https://users.cs.utah.edu/~mflatt/
+
+Algorithm advanced
+https://yintat.com/teaching.html
+
+Numerical Slides Taiwan good
+https://www.cs.nthu.edu.tw/~cherung/teaching/2008cs3331/cs3331.html
+
+
+Numerical Thaiwan good
+https://www.cs.nthu.edu.tw/~cchen/CS3331/cs3331.html
+
+Computational Mathematics, Linear Algebra Probability  Thaiwan slides
+https://www.cs.nthu.edu.tw/~cchen/
+
+Linear Algebra with C good
+https://www.cs.nthu.edu.tw/~cchen/CS2334/cs2334.html
+
+Numerical with python high school MIT:
+https://programjames.github.io/hssp-spring-numerical-methods/
+
+Numerical Methods for PDE
+https://github.com/programjames/MATH511/blob/main/README.md
+
+Numerical Analysis Python 
+https://github.com/programjames/math411hw/tree/main/Week%202
+
+Vector and Tensor Calculus similar to Math 335
+http://www.ae.iitm.ac.in/~smahesh/as5900_2021/index.html
+
+Good Math and Calc IIT
+https://home.iitm.ac.in/anujjakhar/teaching1.html
+
+Logic For Computer Science Youtube too
+https://www3.cs.stonybrook.edu/~cse541/
+
+Theory of Computation 
+https://www3.cs.stonybrook.edu/~cse303/
+
+Logic for Computer Science
+https://www3.cs.stonybrook.edu/~cse371/
+
+Discrete Math 
+https://www3.cs.stonybrook.edu/~cse547/
+
+### Start soon after linear algebra must please
+Data Structure and Algorithm 
+https://webcms3.cse.unsw.edu.au/COMP2521/26T1/resources/118621
+
+Python Notes good
+https://www.cs.rpi.edu/academics/courses/spring16/cs1/course_notes/lec23_functional.html
+
+Java Lecture Notes very detailed
+https://www.cafeaulait.org/course/
+
+Good Python review detailed
+https://homepage.divms.uiowa.edu/~sriram/16/spring13/
+
+Good Computer Science and Theoretical Stuff
+https://homepage.divms.uiowa.edu/~sriram/teaching.html
+
+Very good Python slides:
+https://homepage.divms.uiowa.edu/~sriram/16/spring13/notes/
+
+Good Python Rochester
+https://www.cs.rpi.edu/academics/courses/spring16/cs1/course_notes/lec23_functional.html
+
+Scientific Computing 
+https://intro-sci-computing.netlify.app/readme
+
+Scietific Computing 
+https://courses.washington.edu/am301/page1/page15/video.html
+
+Scientific Computing 
+https://courses.washington.edu/am301/video.html
+
+Python and Scientific Programming 
+https://neuromatch.io/open-education-resources/
+
+Good Math and Discrete Stuff
+https://cseweb.ucsd.edu/~gill/
+
+Book of Proof Richard Hammak 
+https://richardhammack.github.io/BookOfProof/
+
+Linear Algebra Terrace Tao
+https://www.math.ucla.edu/~tao/resource/general/115a.3.02f/
+
+Proof and Machine Learning Mathematics and Abstract Algebra
+https://teitelbaum.math.uconn.edu/
+
+Good Python 
+https://www.cs.rpi.edu/academics/courses/spring16/cs1/course_notes.html
+
+Good Math, Machine Learning, Abstract and Linear Algebra::
+https://github.com/jeremy9959?tab=repositories
+
+Linear Algebra
+https://pomona.app.box.com/s/oahafa797tj5sh55dewyedtys31lamf0
+
+Linear and Differential Equations MIT easy
+https://math.berkeley.edu/~arash/54/notes/
+
+Calculus with Proofs:
+https://www.math.utoronto.ca/ivan/mat137/1617.html
+
+Topology
+https://www.math.utoronto.ca/ivan/mat327/index.html?resources
+
+Awesome Math Books
+https://github.com/valeman/Awesome_Math_Books
+
+Probability
+https://isl.stanford.edu/~abbas/ee178/
+
+Haskel
+https://github.com/byorgey/haskell-course
+
+Quantum Information Theory Jeffery Schanker  video lecture
+
+https://sites.google.com/a/msu.edu/jeffrey-schenker/past-teaching/992-quantum-information-theory/blackboards?authuser=0
+
+Signal And Systems good
+https://neuron.eng.wayne.edu/auth/ece4330/lectures.html
+
+Numerical Analysis  In Matlab good lecture Notes
+https://neuron.eng.wayne.edu/auth/ece3040/lectures/lectures.html
+
+Matlab College course good
+https://www.cse.wustl.edu/~m.neumann/fall2015/cse200/lectures/
+
+Good Data Science CS
+https://sites.wustl.edu/neumann/teaching/cse416a-fl19/
+
+Numerical Lecture notes good
+http://www.ohiouniversityfaculty.com/youngt/IntNumMeth/
+
+Numerical Linear Algebra Lecture Notes
+https://www.stat.uchicago.edu/~lekheng/courses/302/
+
+Number theory some notes
+https://e.math.cornell.edu/people/belk/numbertheory/
+
+Linear Algebra very good
+http://www.supermath.info/AppliedLinearAlgebra.html
+
+Good Mathematics Lecture notes with videos
+http://www.supermath.info/
+
+Lots of Matlab
+https://github.com/dumpinfo/MatlabBookCollection/blob/master/Basics%20of%20MATLAB%20and%20Beyond%20-%20Andrew%20Knight.pdf
+
+Numerical Gold With Examples NPTEL IIT
+https://archive.nptel.ac.in/content/storage2/courses/122104019/front.htm
+
+https://archive.nptel.ac.in/content/storage2/courses/122104019/numerical-analysis/Rathish-kumar/ratish-1/node9.html
+
+Linear Algebra Video Series 
+https://www.youtube.com/watch?v=oRYKmeowylQ&list=PLsw4Hnb_quRrmonpF13LeGosvRt8WJS86&index=1
+
+Numerical Linear Video
+https://www.youtube.com/watch?v=hBIp29lxAdY&list=PLRb3xghOQGNKbUt8zIRpwrQ-SZ6aIZNvt
+
+Linear Algebra Very Good Dr Robert based on Fraleigh book
+https://faculty.etsu.edu/gardnerr/2010/notes-G.htm#chapter2
+
+Linear Graduate level good
+https://faculty.etsu.edu/gardnerr/5090/notes.htm
+
+Old Linear Algebra
+https://faculty.etsu.edu/gardnerr/archives.htm
+
+Good Abstract algebra, Linear Algebra and Functional Analysis
+https://faculty.etsu.edu/gardnerr/gardner.htm
+
+Matrix Algebra Class with video and Notes
+https://faculty.etsu.edu/gardnerr/5090/Theory-of-Matrices-Online-Panopto.htm
+
+
+Linear algebra for advanced algebra
+https://faculty.etsu.edu/gardnerr/5410/notes-linear-algebra.htm
+
+Scientific Computing Stanford with Audio
+https://web.stanford.edu/class/math114/pages/modules.html
+
+Mathematical Foundations of computing
+https://web.stanford.edu/class/cs103/
+
+Good Math Peter Oliver
+https://www-users.cse.umn.edu/~olver/
+
+Matlab and Magnetic Resonance
+https://cflu.lab.nycu.edu.tw/CFLu_course.html
+
+Harvard Scientific Computing Chris Rycroft and His Collegues
+https://courses.seas.harvard.edu/courses/am205/fall13/
+
+https://people.math.wisc.edu/~chr/am205/material.html
+
+Harvard Advanced Scientific Computing Chris Rycroft
+https://people.math.wisc.edu/~chr/am225/material.html
+
+Harvard Undergrad Scientific Computing 
+https://github.com/sarah1123/ScientificComputing-APMTH111/tree/main/2022Fall/CourseNotes
+
+Matlab good 
+http://www.ohiouniversityfaculty.com/youngt/
+
+Anita Faul Numerical Analysis and Machine Learning 
+https://github.com/ACFaul?tab=repositories
+
+Numerical Computing for Dphil Students Oxford
+https://podcasts.ox.ac.uk/series/scientific-computing-dphil-students
+
+Approximation Theory good for chebyshev
+https://video.cims.nyu.edu/media/PublicCourses/MATH-GA_2011_001_FA15%20Approximation_Theory_and_Approximation_Practice/
+
+Numerical Linear Algebra Lecture notes trefethen
+https://people.maths.ox.ac.uk/trefethen/text.html
+
+High Performance Computing Afkami Shahriar
+https://web.njit.edu/~shahriar/class_home/HPC/HPC.html
+
+High Performance Computing Basics Software Carpentry
+https://carpentries-incubator.github.io/hpc-intro/
+
+High Performance Computing Math 453 Afkami Shahriar
+https://web.njit.edu/~shahriar/class_home/math453.html
+
+Math Youtube to look at 
+https://www.youtube.com/@billkinneymath/playlists
+
+Real Analysis Bill Kenny
+https://drive.google.com/drive/folders/1QtcZHip4x8_hxc1gACgWsHDfdngo36Vj
+
+Rutgers Probability Theory
+https://sites.math.rutgers.edu/~carlen/477F18/notes.html
+
+Functional Programming Advanced 
+https://xavierleroy.org/mpri/2-4/index.html
+
+Functional Programming in Ocaml very good
+https://lms.fun-mooc.fr/courses/course-v1:parisdiderot+56002+session04/Table_of_Contents/
+
+Data Structures and Functional Programming Cornell
+https://www.cs.cornell.edu/courses/cs3110/2016sp/lecture_notes.php
+
+Great Statistics Resource 
+https://web.ma.utexas.edu/users/gordanz/lecture_notes_page.html
+
+Stochastics With R
+https://gordanz.github.io/stochastic-book/
+
+
+Julia For Scientific Computing 
+https://github.com/carstenbauer/JuliaHLRS25
+
+Good C++
+https://www.cs.upc.edu/~jordicf/Teaching/programming/
+
+Scientific computing in Python 
+https://oist.github.io/iSciComp/iSciComp.html
+
+Good Numerical and Linear Algebra lectures
+http://mitran-lab.amath.unc.edu/#!index.md
+
+C++ Lecture Notes
+https://webapps.ps.uci.edu/~cyu/p231C/LectureNotes/
+
+Some Physics Lectures
+https://webapps.ps.uci.edu/~cyu/
+
+Matlab Lecture Slides Very Good Gerald 
+https://web.cecs.pdx.edu/~gerry/nmm/course/
+
+Matlab Course work very good
+https://web.cecs.pdx.edu/~gerry/class/ME350/lecture/
+
+Matlab With Numerical Good Very Good
+https://web.cecs.pdx.edu/~gerry/class/ME352/notes/
+
+Transition to Ocaml 
+https://www.cs.swarthmore.edu/~zpalmer/cs73/s18/guides/OCamlTransition/
+
+Latex Tutorial Very Good
+https://www1.cmc.edu/pages/faculty/aaksoy/latex/latex-toc.html
+
+
+Latex and Fortran Tutorial
+https://personalpages.manchester.ac.uk/staff/paul.johnson-2/pages/latexShort.html
+
+
+Good short latex tutorial
+https://guides.lib.wayne.edu/latex/home
+
+
+Scientific Computing Goodman 
+https://math.nyu.edu/~goodman/teaching/SciComp2003/Book/
+
+Numerical And Scientific Computing Lecture Notes
+https://www.math.umd.edu/~mariakc/teaching.html
+
+Stevens EEE CS Courses
+https://github.com/StevensDeptECE
+
+Rutgers ECE CS Courses
+https://github.com/RU-ECE/
+
+Financial Mathematics
+https://www.math.cuhk.edu.hk/course_builder/2223/math4210/
+
+Numerical Optimization
+https://www.cs.nthu.edu.tw/~cherung/teaching/2010cs5321/
+
+Scientific Computing With Case Studies Oleary
+http://www.cs.umd.edu/users/oleary/SCCS/supp/index.html
+
+Scientific Computing Dianne P Oleary
+http://www.cs.umd.edu/users/oleary/
+
+Numerical Analysis Dianne P Oleary
+http://www.cs.umd.edu/users/oleary/c460/index.html
+
+Scientific Computing with Python
+https://github.com/dgerosa/scientificcomputing_bicocca_2023?tab=readme-ov-file
+
+Scientific Computing in Python and Astrostatistics
+https://github.com/dgerosa?tab=repositories
+
+
+Scientific Computing With Python 
+https://caam37830.github.io/schedule.html
+
+python scientific computing 
+https://lectures.scientific-python.org/intro/intro.html
+
+Scientifc Computing With Case Studies Lesson and Resources 
+https://www.cs.umd.edu/users/oleary/SCCS/supp/index.html
+
+Scientific Computing NYU
+https://math.nyu.edu/inmemoriam/donev//Teaching/SciComp-Fall2019/Lectures.html
+
+Numerical Analysis Undergrad 
+https://adonev.github.io/NumAnal2021/Lectures.html
+
+Fortran For Physics Notes
+https://math.nyu.edu/inmemoriam/donev/Teaching/PHY201/
+
+Numerical Computing With Matlab Moler Official 
+https://www.mathworks.com/moler/chapters.html
+
+Numerical Analysis Alex Donev NYU Undergrad very good
+https://adonev.github.io/NumAnal2021/Lectures.html
+
+Alberto Bressen Lecture Notes Control Theory
+https://sites.psu.edu/bressan/3-lecture-notes/
+
+Scientific Computing David Bindel NYU(very good notes undergrad)
+https://www.cs.cornell.edu/~bindel/class/cs3220-s12/lectures.html
+
+Lots of Scientific Computing David Bindel
+https://www.cs.cornell.edu/~bindel/teaching.html
+
+Scientific Computing NYU
+https://math.nyu.edu/inmemoriam/donev//Teaching/SciComp-Fall2019/Lectures.html
+
+Numerical Computing python
+https://cs357.cs.illinois.edu/textbook/notes/
+
+Numerical Computing 
+https://courses.grainger.illinois.edu/cs357/su2013/lect.htm
+
+Financial Math With R
+https://math.nyu.edu/~goodman/teaching/MathFin2019/resources.html
+
+
+Financial Math good For FM
+https://pages.stern.nyu.edu/~jcarpen0/courses/b403333/b403333-start.html
+
+Financial Math and Stochastics
+https://pages.stern.nyu.edu/~jcarpen0/courses.html
+
+Derivative Security
+https://math.nyu.edu/~kohn/derivative_securities.html
+
+PDE for Finance NYU
+https://math.nyu.edu/~kohn/pde_finance.html
+
+R Programming For Statistics
+https://www.stat.berkeley.edu/~s133/schedule.html
+
+Probability Textbook Berkley good for Exam P
+https://data140.org/textbook/
+
+Data Science In Python 
+https://inferentialthinking.com/chapters/01/1/intro/index.html
+
+Statistics Berkley  lectures 
+https://www.stat.berkeley.edu/
+
+R Intro
+https://www.stat.berkeley.edu/~shobhana/stat20book/introducing-r.html
+
+
+Jonathan Goodman NYU Scientific Computing 
+https://math.nyu.edu/~goodman/teaching/teaching.html
+
+Alex Donev Scientific Computing 
+https://math.nyu.edu/inmemoriam/donev//Teaching/
+
+
+Latex Videos
+https://www.engr.colostate.edu/~drherber/education#teaching-materials
+
+Computer Network and other Network Service Professor Raj Jain 
+https://www.cse.wustl.edu/~jain/cse4703-26/index.html
+
+Open System Networking 
+https://interisle.net/osn
+
+Practical Python Application 
+https://web.ntpu.edu.tw/~myday/teaching/1121/PAA/
+
+Software Engineering and Programming Tutorials Chinese Good
+https://web.ntpu.edu.tw/~myday/teaching/
+
+Deep Learning With Python 
+https://deeplearningwithpython.io/chapters/
+
+Leet Code good::
+https://github.com/yanshengjia/algorithm/tree/master/leetcode
+
+Algorithm good
+https://github.com/yanshengjia?page=1&tab=repositories
+
+
+Introduction to AI lectures 
+https://people.engr.tamu.edu/guni/csce420/slides.html
+
+Math Modeling 
+https://github.com/msayd99
+
+Finance Courses Professor Drou
+http://celeritymoment.com/id123.html
+
+Professor Chris Finance Videos
+https://vimeo.com/user176337221
+
+Numerical Methods background very good
+https://www.grace.umd.edu/~petersd/666/
+
+Numerical 
+https://web.archive.org/web/20170318001624/https://math.umd.edu/~petersd/460/
+
+Mathematical Methods MIT
+https://ocw.mit.edu/courses/18-085-computational-science-and-engineering-i-summer-2020/pages/lecture-notes/
+
+Data Science
+https://github.com/khurrameycon/Data-Science-Books/tree/main
+
+Scientific Computing
+https://learning.rc.virginia.edu/#hero
+
+Python ana Bell MIT
+https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/video_galleries/lecture-videos/
+
+Data Science Berkley
+https://inferentialthinking.com/
+
+Data Science
+https://ds100.org/sp19/syllabus#lecture-week-17
+
+Data Science Course
+https://ds100.org/course-notes/
+
+Linear Algebra Notes
+https://math.berkeley.edu/~arash/54/notes/
+
+Linear Algebra Berkley
+https://math.berkeley.edu/~pkoroteev/math54.html
+
+
+MIT Numerical Analysis
+https://github.com/PKUFlyingPig/MIT18.330/tree/spring20/lectures
+
+Calculus Analysis and Algebra
+https://github.com/git-cores/awesome-math-stuff?tab=readme-ov-file
+
+
+Computer Network Berkley
+https://github.com/PKUFlyingPig/CS144-Computer-Network/tree/master/notes
+
+Good CS study materials 
+https://github.com/PKUFlyingPig?tab=repositories
+
+Good Basic CS language
+https://www.composingprograms.com/
+
+Matlab Tutorial Good
+https://thestemtutor.org/?page_id=120
+
+Matlab Data Visualization
+https://learning.rc.virginia.edu/notes/matlab-data-visualization/
+
+Python for Linguist
+https://web.stanford.edu/class/linguist278/notes/ling278_class12.html
+
+Good Linguistics
+https://web.stanford.edu/~cgpotts/teaching.html
+
+Computational Linguistics
+https://web.stanford.edu/class/linguist230b/
+
+Natural Language Computational Background
+https://web.stanford.edu/class/cs224u/background.html
+
+Linguistics
+https://nlp.stanford.edu/~manning/
+https://web.stanford.edu/class/archive/linguist/linguist278/linguist278.1172/syllabus.html
+
+Data Science Tutorial
+https://www.dataquest.io/guide/numpy-pandas-and-data-visualization-tutorial/
+
+good Python and Numerical
+https://github.com/jahrWork/Informatics_Semester1/tree/master/2025
+
+
+Ethiopian Book Source:
+https://ndl.ethernet.edu.et/
+
+Foundations of Applied Mathematics
+https://foundations-of-applied-mathematics.github.io/
+
+Good C little Rust
+https://www.cs.purdue.edu/homes/cs240/lectures/
+
+Rust Full Course By Google 
+https://google.github.io/comprehensive-rust/running-the-course.html
+
+Rust Book
+https://doc.rust-lang.org/book/ch00-00-introduction.html
+
+Python and Matlab Together Intro
+https://cs.brown.edu/courses/cs004/#lectures
+
+Good Physics Book 
+https://www.u-cursos.cl/ingenieria/2018/1/FI3001/1/material_docente/
+
+
+Fourier Series and Metric Space
+https://www.math.cuhk.edu.hk/course_builder/1415/math3060/
+
+Math Lecture Notes Hongkong
+https://www.math.cuhk.edu.hk/course_builder/1415/
+
+Numerical Analysis
+https://jasoncantarella.com/wordpress/courses/math-4500/
+
+Numerical Linear Algebra
+https://jasoncantarella.com/wordpress/courses/math-4510/
+
+Probability Lecture Notes
+https://jasoncantarella.com/wordpress/courses/math4600/
+
+Applications Of Linear Algebra good
+https://www.math.umd.edu/~psg/401/
+
+Applications of Linear Algebra with book
+https://www.math.umd.edu/~immortal/MATH401/
+
+Differential Equations 
+https://www.math.umd.edu/~immortal/MATH246/
+
+Abstract Algebra Summary
+https://www.math.umd.edu/~immortal/MATH403/
+
+Number Theory
+https://www.math.umd.edu/~immortal/MATH406/
+
+Algorithm very good
+https://www.math.umd.edu/~immortal/CMSC351/
+
+Computer Graphics
+https://www.math.umd.edu/~immortal/MATH431/
+
+Data Structure good
+https://www.math.umd.edu/~immortal/CMSC420/
+
+Discrete Mathematics
+https://www.math.umd.edu/~immortal/CMSC250/
+
+Advanced Calculus I and II 
+https://www.math.umd.edu/~immortal/MATH410/lecturenotes/
+
+Mathematical Modeling With Finance and other stuff very good
+https://courses.math.umd.edu/math420/1920S/Lectures.html
+
+Mathematical Modeling UMD with finance, and epidemic
+https://terpconnect.umd.edu/~lvrmr/2011-2012-S/Classes/MATH420/SLIDES/
+
+
+
+
+Matlab Lecture Notes Very Good
+https://math.umd.edu/~jmr/241/MATLABmaterials.html
+
+Spectral Graph Theory
+https://fanchung.ucsd.edu/research/revised.html
+
+Math Classes
+https://www.terpconnect.umd.edu/~lvrmr/2020-2021-F/Classes/index.shtml
+
+Matlab Gilat Solution Manual
+https://github.com/noahc66260/Gilat
+
+High Performance Computing Edmund Chow
+https://faculty.cc.gatech.edu/~echow/ipcc/hpc-course/
+
+Machine Learning and Regression good Edmund Chow
+https://github.com/echow/ml-matlab/
+
+High Performance Computing
+https://github.com/Foundations-of-HPC/High-Performance-Computing-2023/blob/main/PARALLELISM/lecture01-intro-toHPC.pdf
+
+https://github.com/Foundations-of-HPC
+
+Machine Learning 
+https://hajim.rochester.edu/ece/sites/zduan/teaching/ece408/calendar.html
+
+speech analysis cs python
+https://github.com/jhasegaw/intro_speech_understanding/tree/main
+
+
+Numerical Methods for Financial Model
+https://github.com/lazyprogrammer/Financial-Models-Numerical-Methods
+
+Math Class Notes Florida
+https://people.sc.fsu.edu/~jburkardt/classes/classes.html
+
+
+Scientific Computation Hans Peter
+https://hplgit.github.io/
+
+Many Math Open Books With Group Theory and Calculus
+https://opentext.uleth.ca/PDF/
+
+Good Math Statistics in Python 
+https://github.com/weijie-chen
+
+Python Programming and Numerical Methods 
+https://pythonnumericalmethods.studentorg.berkeley.edu/notebooks/Index.html
+
+Differential Geometry Lecture Notes
+https://bose.res.in/~amitabha/Diffgeom-lectures.html
+
+Computer Science Theory 
+https://www.scottaaronson.com/
+
+signal processing
+https://github.com/jhasegaw/ece401lecs
+
+Multimedia Signal Processing
+https://github.com/jhasegaw/ece417lecs
+
+
+
+Good Books 
+https://github.com/dmvaldman/library/tree/master
+
+MIT Linear Algebra
+https://github.com/mitmath/1806/tree/master/notes
+
+MIT Numerical Analysis
+https://github.com/mitmath/18335/tree/master/notes
+
+All MIT MATH
+https://github.com/mitmath
+
+MIT Numerical Gilbert 
+https://web.mit.edu/18.06/www/
+
+Numerical Lectures on Github
+https://github.com/mitmath/numerical_hub
+
+Finite Difference Method Peter
+https://hplgit.github.io/fdm-book/doc/pub/index.html
+
+Dan Fleisch Good Math and Review For Physics
+https://www.danfleisch.com/
+
+Numerical Analysis Full Course Atkinson
+https://homepage.divms.uiowa.edu/~atkinson/ena_master.html
+
+
+signal processing biomedical mit
+https://ocw.mit.edu/courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/pages/lecture-notes/
+
+
+Optimization
+https://www.cs.cmu.edu/~ggordon/10725-F12/slides/
+
+Machine Learning good indian professor very good
+https://cedar.buffalo.edu/~srihari/CSE574/
+
+Numerial Slides Heath
+https://heath.cs.illinois.edu/scicomp/notes/index.html
+
+Numerical Slides Ascher
+https://www.cs.ubc.ca/%7Eascher/ag_teach.html
+
+Good Programming Practice and Data Science for Exams
+https://github.com/vishnu-u/Data-Science-Library/
+
+All EE courses
+https://courses.ece.ucsb.edu/
+
+Good Resource
+https://github.com/bobeff/programming-math-science#retrocomputing
+
+Good Statistical Modeling and R and Regression
+https://www.ma.imperial.ac.uk/~das01/EPSCourse/index.html
+https://www.ma.imperial.ac.uk/~das01/MyWeb/index.html
+
+R lecture notes stanford
+https://web.stanford.edu/class/stats327/Lectures/
+
+Computational Statistics Courses
+https://github.com/rdpeng/courses
+
+Econometrics, Regression Basic and Advanced 
+https://rtgodwin.com/3040/
+https://home.cc.umanitoba.ca/~godwinrt/7010/
+
+Algorithm Archive Very Good
+https://www.algorithm-archive.org/
+
+R Programming For Research
+https://github.com/rdpeng/RProgrammingForResearch
+
+Good R and Data Science Course:
+https://cct-datascience.github.io/repro-data-sci/
+https://datascience.cct.arizona.edu/workshops
+
+Numerical Analysis Slides
+https://ctk.math.ncsu.edu/ma580.html
+
+stat good
+https://www.analyticsvidhya.com/blog/2017/03/conditional-probability-bayes-theorem/
+
+
+Numerial Linear Algebra Slides
+https://www.siue.edu/~juliu/teaching/2020Spring/MATH466Spring2020.html
+
+Penn State Statistics good
+https://online.stat.psu.edu/stat504/Lesson01
+
+Penn State Regression
+https://online.stat.psu.edu/stat501/Lesson01
+
+Python For Actuaries Fanin
+https://github.com/PirateGrunt/paw_rpm/tree/master/notebooks
+
+Computer Science Courses very good
+https://hendrix-cs.github.io/#courses
+
+Scientific Computing in Python 
+https://github.com/Hendrix-CS/csci285/tree/master/notebooks
+
+Modeling
+https://hendrix-cs.github.io/csci285/index.html
+
+Convex Optimization
+https://www.seas.ucla.edu/~vandenbe/ee236b/ee236b.html
+
+Applied Numerical Computing good Numerical Linear Algebra
+https://www.seas.ucla.edu/~vandenbe/ee133a.html
+
+Simulation, Optimization Data Analysis:
+Second Course on Numerical Linear Algebra
+https://www.seas.ucla.edu/~vandenbe/ece133b.html
+
+Linear Programming 
+https://www.seas.ucla.edu/~vandenbe/ee236a/ee236a.html
+
+Convex Optimization
+https://www.seas.ucla.edu/~vandenbe/ee236b/ee236b.html
+
+Optimization Method For Large Scale Systems
+https://www.seas.ucla.edu/~vandenbe/ee236c.html
+
+Matrix Methods and Numerical Linear Algebra
+https://web.stanford.edu/class/engr108/
+
+Machine Learning Good Boyd
+https://ee104.stanford.edu/lectures.html
+
+Matrix Method with Emphasize on Singular Value Decomposition Boyd very good
+https://ee263.stanford.edu/reading.html
+
+Optimization Sanjay Lal Very Good Stanford
+https://lall.stanford.edu/
+
+Linear Dynamical Systems Very good
+https://ee363.stanford.edu//lectures.html
+
+convex optimization advanced
+https://web.stanford.edu/class/ee364b/lectures.html
+
+Stochastic Control Boyd
+https://web.stanford.edu/class/ee365/lectures.html
+
+Stephen Boyd Numerical Linear Optimization Guru
+https://stanford.edu/~boyd/
+
+Linear Programming 
+https://www.seas.ucla.edu/~vandenbe/ee236a/ee236a.html
+
+Very Good Online Optimization Courses
+https://github.com/xb00dx/Online-Courses
+
+CMU Intermediate Statistics
+https://github.com/xb00dx/Online-Courses/tree/master/CMU-Intermediate-Statistics
+
+Computer Vision
+https://vision.cs.utexas.edu/376-spring2018/
+
+Probability Good Look
+https://psarkar.github.io/sds321.html
+
+Intermediate Probability Hand Written Notes good
+https://www.dropbox.com/scl/fo/n6cpht2auot5x3l5mwd20/ANhhRxnRlzUvGGfy-OT_9KQ?rlkey=hcpzrwlo4gkogzwle37y3u45j&e=1&dl=0
+
+Math good IISER
+https://home.iiserb.ac.in/~prahlad/teaching.html
+
+Machine Learning 
+https://www.cs.utexas.edu/~mooney/cs391L/
+
+Natural Language Processing 
+https://www.cs.utexas.edu/~mooney/cs388/
+
+Speech and Language Processing slides
+https://web.stanford.edu/~jurafsky/slp3/
+
+Language Processing and LLM
+https://web.stanford.edu/class/cs124/#schedule
+
+Language Theory Arts
+https://web.stanford.edu/class/think53/
+
+Reinforcement Learning 
+https://www.cs.utexas.edu/~pstone/Courses/394Rspring24/resources/index.html
+
+Discrete Math Detailed good
+https://www.cs.utexas.edu/~pstone/Courses/311Hfall13/resources/index.html
+https://www.cs.utexas.edu/~pstone/Courses/313Hfall12/resources/index.html
+
+Optimization Methods
+https://drive.google.com/drive/folders/1WWVWV4vDBIOkjZc6uFY3nfXvpaOUHcfb
+
+Algebraic Geometry Lecture Notes good
+https://math.emory.edu/~bullery/math137notes/index.html
+
+
+Good Probability and Statistics With R
+https://ionides.github.io/401f18/#class-notes
+
+Oxford Mathematics Good Signal Processing
+https://www.robots.ox.ac.uk/~sjrob/ox_teach.html
+
+Harvard R
+https://ds.dfci.harvard.edu/~aedin/courses/
+
+R discussion
+https://github.com/hadley/stats337
+
+Julie Supervised Machine Learning
+https://github.com/juliasilge?tab=repositories&q=courses&type=&language=&sort=
+https://github.com/juliasilge?tab=repositories
+
+Optimization Lecture Video Github Many
+https://github.com/ebrahimpichka/awesome-optimization
+
+
+R and SAS Zeng good
+https://www.csub.edu/~bzeng/3210/notes.shtml
+
+
+Good Statistics
+https://chrisbilder.com/regression/
+
+PSU R good
+https://mdbeckman.github.io/PSU-STAT-380/
+
+Automata and Algorithm best course
+https://ecealgo.com/lectures.html
+https://courses.grainger.illinois.edu/cs374/fa2022/a/lec/lec_prerec/
+
+Machine Learning With the same automata teacher above
+https://eceml.com/lectures.html
+
+Interview Questions Tushar Roy
+https://github.com/mission-peace/interview
+
+Linear Algebra, Complex Variables, and Calculus Revisited Harb Gross MIT
+https://ocw.mit.edu/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/video_galleries/part-iii/
+
+Linear Programming Very Good
+https://web.stanford.edu/class/msande310/handout.shtml
+
+Introduction to Optimization
+https://web.stanford.edu/class/msande211x/handout.shtml
+
+Mathematical Optimization for Machine Learning
+https://web.stanford.edu/class/msande314/handout.shtml
+
+Mathew Linear Algebra Website with Solution
+http://www.numbertheory.org/book/
+
+Oliver Knill Good Linear Algebra and Math
+https://people.math.harvard.edu/~knill/teach/index.html
+
+Linear Algebra in Probability and Statistics Strang
+https://math.mit.edu/~gs/linearalgebra/ila5/linearalgebra5_12-1.pdf
+
+Jeff Erickson Algorithm course with video
+https://courses.grainger.illinois.edu/cs473/sp2020/lectures.html
+
+Jeff Erickson Automata and Algorithm
+https://courses.grainger.illinois.edu/cs374al1/fa2023/topics.html
+
+Numerical linear algebra stanford 
+https://ericdarve.github.io/NLA/content/intro.html
+
+Numerical UIUC
+https://courses.grainger.illinois.edu/cs357/su2014/lect.htm
+
+Numerical Linear UIUC current silvia
+https://cs357.cs.illinois.edu/textbook/
+
+Linear Algebra Karen Smith Very Good
+https://sites.lsa.umich.edu/kesmith/teaching/math-217-linear-algebra-section-3-2017/
+
+Linear Algebra Oxford
+https://www.williamchen-mathematics.info/lnlafolder/lnla.html
+
+Oxford All Math
+https://courses.maths.ox.ac.uk/course/index.php?categoryid=804
+
+stat oxford
+https://jmarchini.org/teaching/#teaching
+
+
+Numerical Analysis Oxford
+https://courses.maths.ox.ac.uk/course/view.php?id=5502
+
+Statistics Oxford
+https://courses.maths.ox.ac.uk/course/view.php?id=5488
+
+Matrix Notes
+https://www.stat.uchicago.edu/~lekheng/courses/309/notes/
+
+Handwritten Notes Math
+https://users.wfu.edu/gemmerj/teaching.html
+
+Good Linear Algebra Stuff
+https://www.cis.upenn.edu/~cis5150/cis5150f-notes-25.html
+
+Good Differential equations chaos and linear algebra
+https://www.math.purdue.edu/~yipn/543/
+
+Numerical Analysis Cambridge Part II
+https://www.damtp.cam.ac.uk/user/hf323/L20-IB-NA/
+https://www.damtp.cam.ac.uk/user/sjc1/teaching/
+https://www.damtp.cam.ac.uk/user/na/PartIB_03/na03.html
+https://www.damtp.cam.ac.uk/user/na/PartIB/
+https://www.damtp.cam.ac.uk/research/afha/lectures/Part_II_NumAn/
+
+Cambridge Numerical Analysis Part I
+https://www.damtp.cam.ac.uk/user/na/PartIB_01/Handouts.html
+
+Numerical Analysis I Rice University
+https://www.cmor-faculty.rice.edu/~caam553/repo/public_html/notes.html
+
+Optimization with numerical linear algebra
+https://www.stat.cmu.edu/~ryantibs/convexopt-S15/lectures/
+
+Statistical Computing with R very good
+https://www.stat.cmu.edu/~ryantibs/statcomp/
+
+Advanced Statistical Computing with Regression
+https://www.stat.cmu.edu/~ryantibs/advmethods/
+
+Data Mining with PCA
+https://www.stat.cmu.edu/~ryantibs/datamining/
+
+Advanced Optimization
+https://www.cs.cmu.edu/~ggordon/10725-F12/schedule.html
+
+Linear Algebra Notes India
+https://www.math.iitb.ac.in/~ars/MA106/
+
+Good Math IISER India Dr Prahlad
+https://home.iiserb.ac.in/~prahlad/teaching.html
+
+Numerical linear algebra
+https://www.cs.bu.edu/fac/snyder/cs132-book/landing-page.html
+
+Good Python
+https://www.halvorsen.blog/documents/programming/python/python.php
+
+Linear Algebra Slides Sudhir good
+http://www.math.iitb.ac.in/~srg/106/
+
+Linear Algebra slides good
+https://drive.google.com/drive/folders/1jUO2FgE4V8FE5PIZEcZ68GOHTi24guNm
+
+Nathan Kutz Complex System
+https://faculty.washington.edu/kutz/am563/am563.html
+
+Nathan Kutz Data Driven Science and Engineering 
+https://databookuw.com/page-2/page2.html
+
+Numerical Analysis Slides good
+https://people.math.wisc.edu/~chr/am205/slides/
+
+Linear Algebra slides with good calculus 
+https://www.math.iitb.ac.in/~bvl/
+
+
+Linear Algebra Videos 
+https://web.ma.utexas.edu/users/sadun/F13/M346/video.html
+
+MIT Numerical 
+https://github.com/mitmath/18335/tree/master/notes
+
+MIT Numerical Linear
+https://github.com/mitmath/18065/tree/main/notes
+
+MIT all numerical 
+https://github.com/orgs/mitmath/repositories
+
+
+Matlab slides
+https://people.sc.fsu.edu/~jburkardt/classes/imps_2017/
+https://www.cs.cornell.edu/courses/cs1112/2020sp/lecture/lec10/lec10-slides.pdf
+
+Probability Lectures good
+https://math.nyu.edu/~varadhan/Fall2013/
+
+Numerical Good
+https://math.unm.edu/~nitsche/courses/375/
+
+Lots of good math good Numerical
+https://math.unm.edu/~nitsche/courses/
+
+Daniel An Lecture Youtube math
+https://100worksheets.com/mathingsconsidered.html
+
+Advanced Mathematical Statistics Peter
+https://mitocw.ups.edu.ec/courses/mathematics/18-655-mathematical-statistics-spring-2016/lecture-notes/
+
+Undergrd Mathematical Statistics Peter
+https://opencw.aprende.org/courses/mathematics/18-443-statistics-for-applications-spring-2015/lecture-notes/
+
+Good linear complex and calculus iit
+https://home.iitk.ac.in/~psraj/mth102/lecture_notes.html
+
+
+Differential Equations
+https://www.leahhoward.com/252notes.html
+
+Differential Equation MIT
+https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/video_galleries/video-lectures/
+
+Good Applied Math Notes
+https://www.math.ntu.edu.tw/~chern/
+
+Linear Algebra Shariar Shahriari lecture list
+https://pomona.app.box.com/s/oahafa797tj5sh55dewyedtys31lamf0
+
+computer Architecture slides
+https://www.cs.purdue.edu/homes/cs250/LectureNotes/
+
+System Programming
+https://www.cs.purdue.edu/homes/grr/SystemsProgrammingBook/
+
+Financial Economics Lecture slides
+http://irelandp.com/econ3379/notes/ch01slides.pdf
+
+
+Stat lecture notes Notre Dame
+https://academicweb.nd.edu/~rwilliam/stats1/
+https://academicweb.nd.edu/~rwilliam/stats1/index.html
+https://academicweb.nd.edu/~rwilliam/stats2/index.html
+https://academicweb.nd.edu/~rwilliam/stats3/index.html
+https://academicweb.nd.edu/~rwilliam/stats/StataHighlights.html
+
+Numerical Analysis Very Good
+https://jasoncantarella.com/wordpress/courses/math-4500/
+
+Linear Algebra and Numerical Linear Algebra
+http://ulaff.net/
+
+Good R Programming India
+https://home.iitk.ac.in/~shalab/onlinecoursematerial
+
+Spectral Graph Theory with Matrices
+https://www.cs.yale.edu/homes/spielman/462/462schedule.html
+
+Discrete Math Good Notes
+https://web.stanford.edu/~dntse/classes/cs70_fall09/
+
+Matrix Computation good
+https://www.cs.cornell.edu/courses/cs6210/2025fa/schedule.html
+
+Very Good Numerical 
+https://www.cs.cornell.edu/~bindel/teaching.html
+
+Advanced Data Analysis with R
+https://statacumen.com/book/ADA/
+
+Statistics For Research
+https://statacumen.com/book/S4R/
+
+Modern Statistics
+https://openintro-ims.netlify.app/
+
+Matrix Analysis Notes good
+https://faculty.ucmerced.edu/mhyang/course/eecs275/lectures/
+
+Good Lecture Notes For Matrix and EEE Computer Architecture
+https://faculty.ucmerced.edu/mhyang/teaching.html
+
+Statistics For Engineers
+https://statacumen.com/book/PNC/
+
+Computational Physics Fortran, C, Matlab
+https://www.physics.purdue.edu/~hisao/book/
+
+
+Afkhami Shahriar Numerical
+https://web.njit.edu/~shahriar/class_home/math453.html
+
+Numerical Slides based on Fausett
+https://www.cs.nthu.edu.tw/~cherung/teaching/2008cs3331/cs3331.html
+
+Numerical Linear Algebra PSU
+https://www.cse.psu.edu/~b58/cse550/classnotes.html
+
+Linear Algebra for statistics
+https://shainarace.github.io/LinearAlgebra/index.html
+
+Trefthen Scientific Computing very good
+https://podcasts.ox.ac.uk/series/scientific-computing-dphil-students
+
+Approximation Theory Trefthen
+https://video.cims.nyu.edu/PublicCourses/MATH-GA_2011_001_FA15%20Approximation_Theory_and_Approximation_Practice/
+
+
+Numerical Linear Algebra Vandenberghe very good
+https://www.seas.ucla.edu/~vandenbe/ee133a.html
+https://www.seas.ucla.edu/~vandenbe/ece133b.html
+
+Julia and Python for Linear Numerical Linear Algebra
+https://github.com/vbartle/VMLS-Companions
+
+Boyd Linear Algebra and optimization
+https://stanford.edu/~boyd/teaching.html
+
+Numerical Methods for Physics 
+https://faculty.etsu.edu/lutter/courses/phys4007/
+
+Numerical Method very good physics
+https://www.tat.physik.uni-tuebingen.de/~kokkotas/Teaching/Num_Methods.html
+
+Electromagnetics
+https://engineering.purdue.edu/wcchew/ece604f19/Lecture%20Notes/
+
+Good Singular Value Decomposition 
+https://ee263.stanford.edu/lectures2025.html
+
+Foundations of Machine Learning 
+https://amirafsharrad.github.io/teaching/foundations-of-ml/
+
+Linear Algebra with SVD slides
+https://amirafsharrad.github.io/teaching/ee263-matrix-methods/
+
+Linear Dynamical System
+https://ee363.stanford.edu/lectures.html
+
+Matlab Video Lessons Very Good
+https://cs103.net/video-lectures/
+
+
+
