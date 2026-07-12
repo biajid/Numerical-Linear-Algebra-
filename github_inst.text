@@ -1,0 +1,7 @@
+cd ~/NumericalLinearAlgebra
+
+cp ~/Matlab/hello.m .
+
+git add hello.m
+git commit -m "Add hello.m"
+git push origin main
