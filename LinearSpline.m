@@ -1,5 +1,5 @@
 function yint = LinearSpline(x, y, xint)
-% This function linear spline on x and y vector, and evaluates 
+% This function performs linear spline on x and y vector, and evaluates 
 % the spline on xint to return yint.
 n = length(x);
 
