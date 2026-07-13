@@ -2637,6 +2637,9 @@ https://amirafsharrad.github.io/teaching/ee263-matrix-methods/
 Linear Dynamical System
 https://ee363.stanford.edu/lectures.html
 
+Good math with numerical analysis, linear algebra, and differential equations
+https://arminstraub.com/teaching
+
 Matlab Video Lessons Very Good
 https://cs103.net/video-lectures/
 
