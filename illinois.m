@@ -1,5 +1,5 @@
-function xns = regulafalsi(fun, a, b, tolerance)
-% This function performs Regula Falsi method to get the solution 
+function xns = illinois(fun, a, b, tolerance)
+% This function performs Illinois method to get the solution 
 % of the equation fun(x) = 0.
 % Parameters are fun : function handle, a = left boundary, b = right
 % boundary, and tolerance is for stopping criteria 
@@ -26,15 +26,33 @@ c = fun(xns);
 
 
 toli = abs(c);
+changeA = 0;
+changeB = 0;
 
 while toli > tolerance
     if c > 0
        a = xns;
        xa = c;
+       changeA = 0;
+       changeB = changeB + 1;
     else
        b = xns;
        xb = c;
+       changeA = changeA + 1;
+       changeB = 0;
     end
+
+    if changeA == 2
+        xa = xa / 2;
+        changeA = 1;
+    end
+
+    if changeB == 2
+        xb = xb / 2;
+        changeB = 1;
+    end
+
+
 
     xns = (a * xb - b * xa) / (xb - xa);
     c = fun(xns);
