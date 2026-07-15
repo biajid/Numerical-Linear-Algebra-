@@ -2655,6 +2655,12 @@ https://sites.wustl.edu/neumann/teaching/cse-200/
 Data science lecture cmu
 https://www.datasciencecourse.org/lectures/
 
+Python Review
+https://www.cs.cmu.edu/~15112-f22/schedule.html
+
+Machine Learning
+https://www.cs.cmu.edu/~10315-s25/#schedule
+
 Matlab Video Lessons Very Good
 https://cs103.net/video-lectures/
 
