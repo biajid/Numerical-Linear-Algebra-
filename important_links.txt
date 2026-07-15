@@ -2649,6 +2649,12 @@ https://lewtun.github.io/dslectures//
 Data Science Slides
 https://www.cse.wustl.edu/~m.neumann/sp2019/cse217/slides/
 
+Good Matlab slides
+https://sites.wustl.edu/neumann/teaching/cse-200/
+
+Data science lecture cmu
+https://www.datasciencecourse.org/lectures/
+
 Matlab Video Lessons Very Good
 https://cs103.net/video-lectures/
 
