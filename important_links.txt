@@ -2640,6 +2640,15 @@ https://ee363.stanford.edu/lectures.html
 Good math with numerical analysis, linear algebra, and differential equations
 https://arminstraub.com/teaching
 
+Good R Slides
+https://www.cse.lehigh.edu/~brian/course/2022/graddatascience/notes/
+
+Data Science Lecture notes
+https://lewtun.github.io/dslectures//
+
+Data Science Slides
+https://www.cse.wustl.edu/~m.neumann/sp2019/cse217/slides/
+
 Matlab Video Lessons Very Good
 https://cs103.net/video-lectures/
 
