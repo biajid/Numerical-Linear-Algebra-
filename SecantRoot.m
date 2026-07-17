@@ -1,0 +1,20 @@
+function xout = SecantRoot(f, x1, x2, tol, imax)
+% This function performs secant method to get the 
+% root of the equation f(x) = 0.
+% Arguments : f, x1, x2, tolerance, and maxIteration.
+
+for index = 1 : imax 
+    xnew = x2 - f(x2) * (x1 - x2) / (f(x1) - f(x2));
+    if abs((xnew - x2) / x2) < tol
+        xout = xnew;
+        return; 
+    end
+
+    x1 = x2;
+    x2 = xnew;
+end
+
+fprintf("Solution was not reached in %d iteration.\n", imax);
+xout = ('No Solution');
+end
+
