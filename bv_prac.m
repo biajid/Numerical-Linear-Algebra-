@@ -1,0 +1,82 @@
+% ---------------------------------------------------------------
+% Example: Shooting Method for a Boundary Value Problem
+%
+% Problem:
+%
+% A rocket is launched vertically from the ground. Let y(t) denote
+% the altitude, in meters, of the rocket at time t, in seconds.
+% Assume that air resistance is neglected and gravity is constant,
+%
+%       g = 9.8 m/s^2.
+%
+% The motion of the rocket is governed by
+%
+%       y'' = -g
+%
+% together with the boundary conditions
+%
+%       y(0) = 0
+%       y(5) = 50
+%
+% The initial velocity y'(0) is unknown.
+%
+% Objective:
+%
+% Determine the initial velocity y'(0) so that the rocket reaches
+% a height of exactly 50 meters after 5 seconds.
+%
+% Shooting Method:
+%
+% 1. Convert the second-order ODE into the first-order system
+%
+%       y' = v
+%       v' = -g
+%
+% 2. Guess the unknown initial velocity v(0).
+%
+% 3. Solve the resulting initial value problem using ode45.
+%
+% 4. Compute the final-position error
+%
+%       error = y(5) - 50.
+%
+% 5. Use fzero to adjust the initial velocity until the error is zero.
+% ---------------------------------------------------------------
+
+
+clc;
+close all;
+g = 9.8;
+
+F = @(t, s) [s(2); -g];
+
+objective = @(u) FinalPositionError(u, F)
+% this function will calculate error in the final position.
+
+initial_guess_speed = 25;
+correct_velocity = fzero(objective, initial_guess_speed);
+
+fprintf("Required velocity to hit the target %.6f\n", correct_velocity);
+
+tspan = linspace(0, 5, 100);
+[t, s] = ode45(F, tspan, [0; correct_velocity]);
+
+yval = s(:, 1);
+vval = s(:, 2);
+
+figure(1);
+plot(t, yval, 'LineWidth', 2, 'Color', 'red');
+hold on;
+plot(t, vval, 'LineWidth', 2, Color="k");
+legend("Posiition", "Velocity");
+xlabel("Time in second");
+ylabel("Position and velocity");
+title('A graph of Position and Velocity over time');
+
+% Now define the local function 
+function error = FinalPositionError(u, F)
+[~, s] = ode45(F, [0, 5], [0; u]);
+final_position = s(end, 1);
+error = final_position - 50;
+end
+
