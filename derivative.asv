@@ -1,0 +1,18 @@
+function dv = derivative(x, y)
+% This function takes x and y as data values, x : domain, y : range.
+% This function generates at all points.
+% For 1st point : use Forward difference formula 
+% For last point : use Backward difference formula
+% All internal points : use central difference formula
+
+n = length(x);
+if n ~= y 
+    error("Length mismatch in x and y");
+end
+
+dv = zeros(1, n);
+
+dv(1) = (y(2) - y(1)) / (x(2) - x(1));
+dv(end) = (y(end) - y(end - 1)) / (x(end) - x(end - 1));
+
+dv(2 : end - 1) = (y(3 : end) - y(1 : end - 2)) / (x(3 : end) - x(1 : ));
