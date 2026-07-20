@@ -1,4 +1,4 @@
-function [Q, R] = QRFactorization_Householer(A)
+function [Q, R] = QRFactorization_Householder(A)
 % This function performs QR Factorization on a given matrix A, 
 % utilizing Householder reflection procedure.
 [m, n] = size(A);
