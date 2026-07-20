@@ -1,0 +1,24 @@
+function [Q, R] = MyQR_InPlace_Packed(A)
+% This function performs QR factorization on the matrix A 
+% It does so first putting all the elements of Q and R on A, and then 
+% regenerates Q and R. It's just for practice!
+
+[m, n] = size(A);
+nn = min(m, n);
+tau = zeros(k, 1);
+
+for j = 1 : k 
+    nomx = norm(A(j : end, j));
+    x = A(j : end, j);
+    s = -sign(A(j, j));
+
+    if normx == 0
+        continue;
+    end
+
+    if s == 0
+        s = -1;
+    end
+
+    u1 = x(1) - s * nomx;
+    A(j : end, j) = A(j : end)
