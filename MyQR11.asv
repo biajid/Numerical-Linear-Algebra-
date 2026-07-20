@@ -1,0 +1,30 @@
+function [Q, R] = MyQR11(A)
+% This function performs QR factoriztion using Householder 
+% method on matrix A.
+[m, n] = size(A);
+Q = eye(m);
+R = A;
+
+for j = 1 : n
+    x = R(j : end, j);
+    s = -sign(x(1));
+    normx = norm(x);
+    
+    if normx == 0
+        continue;
+    end
+
+    if s == 0 
+        s = -1;
+    end
+
+    u1 = x(1) - s * normx;
+    v = x / u1;
+    v(1) = 1;
+
+    tau = -s * u1 / normx;
+
+    R(j : end, j : end) = R(j : end, j : end) - (tau * v) * (v' * R(j : end, :));
+    Q(:, j : end ) = Q(:, j : end) - ((Q(:, j : end) * v) * (tau * v)');
+
+end
