@@ -1,0 +1,19 @@
+function out = simpson_three_eightth(fun, a, b, N)
+% This function performs simpson's three eighth method to get integral 
+% of function, f, over the interavl [a,b] by making N subintervals. 
+% N needs to be divisible by 3. 
+% Required arguments: function_handle, lower bound, upper bound, and the
+% number of subintervals. 
+
+if mod(N, 3) ~= 0
+    tau = mod(N, 3);
+    N = N - tau + 3;
+end
+
+h = (b - a) / N;
+x = a : h : b;
+f = fun(x);
+
+out =  3 * h / 8 * (f(1) + f(end)) + 3 * 3 * h / 8 * (sum(f(2 : 3 : end - 2)) + sum(f(3 : 3 : end - 1))) + 2 * 3 * h / 8 * sum(f(4 : 3 : end - 3));
+
+end
