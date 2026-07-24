@@ -2631,6 +2631,9 @@ https://ee263.stanford.edu/lectures2025.html
 Foundations of Machine Learning 
 https://amirafsharrad.github.io/teaching/foundations-of-ml/
 
+Power Electronics and Control Engineering
+https://github.com/tmhd99/power-electronics-studymaterials
+
 Linear Algebra with SVD slides
 https://amirafsharrad.github.io/teaching/ee263-matrix-methods/
 
@@ -2660,6 +2663,39 @@ https://www.cs.cmu.edu/~15112-f22/schedule.html
 
 Machine Learning
 https://www.cs.cmu.edu/~10315-s25/#schedule
+
+AI Tools for Actuaries
+https://aitools4actuaries.com/
+
+Numerical Methods in Python Easy
+https://github.com/hamidrezanorouzi/numericalMethods
+
+Numerical Methods for Electrical Engineers 
+https://courses.egr.uh.edu/ECE/ECE3340/Web/notes.html
+
+Numerical Slides
+http://www.math.ncu.edu.tw/~syyang/teaching/
+
+Fortran Tutorial Stanford
+https://web.stanford.edu/class/me200c/tutorial_77/
+
+Matrix computation numerical linear
+https://www.cs.cornell.edu/~bindel/class/cs6210-f12/lectures.html
+
+stat notes mit
+https://mitocw.ups.edu.ec/courses/sloan-school-of-management/15-075j-statistical-thinking-and-data-analysis-fall-2011/lecture-notes/
+
+Mathematical Statistics good
+http://aleph0.clarku.edu/~djoyce/ma218/
+
+Statistics with R very good from medical school
+https://physiology.med.cornell.edu/faculty/skrabanek/lab/qbio/schedule_2024/
+
+Matrix Computation Numerical Linear Algebra Advanced Good
+https://www.cs.cornell.edu/~bindel/class/cs6210-f12/lectures.html
+
+Modern Statistics with R good
+https://www.modernstatisticswithr.com/
 
 Matlab Video Lessons Very Good
 https://cs103.net/video-lectures/
