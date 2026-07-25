@@ -2697,6 +2697,20 @@ https://www.cs.cornell.edu/~bindel/class/cs6210-f12/lectures.html
 Modern Statistics with R good
 https://www.modernstatisticswithr.com/
 
+Recent Advances in Numerical Linear Algebra
+https://www.cs.ucdavis.edu/~bai/Winter09/
+
+Numerical Linear Videos Youtube : Martijn Anthonissen
+
+Good Numerical Courses 
+https://math.gsu.edu/xye/teaching.html
+
+Probability Live Lecture Sayan Mukherjee Duke
+https://www2.stat.duke.edu/~sayan/230/2017/index.html
+
+Statistical methods sayan
+https://www2.stat.duke.edu/~sayan/Sta613/2017/Sta613.html
+
 Matlab Video Lessons Very Good
 https://cs103.net/video-lectures/
 
