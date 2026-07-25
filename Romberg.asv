@@ -1,0 +1,21 @@
+function [IR, out] = Romberg(f, a, b, N, level) 
+% This function performs Romberg integration on the given function from [a, b].
+% Required arguments: function handle, a, b, N of initial intevals, and
+% level required for Romberg integration. 
+% The method of Integration : Trapezoidal method.
+IR = zeros(level);
+
+for n = 1 : le 
+    IR(n , 1) = trapezoidal_integral(f, a, b, N/n);
+end
+
+for col = 2 : N 
+    for row = 1 : (N - col + 1)
+        IR(row, col) = ((2 ^ col) * IR(row + 1, col - 1) - IR(row, col - 1)) ...
+            / (2 ^ col - 1);
+    end
+end
+
+out = IR(N, 1);
+end
+
