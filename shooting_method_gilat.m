@@ -44,7 +44,7 @@ error_temp2 = T2(end) - Tb;
 
 
 
-while abs(error_temp2) > 1e-2
+while abs(error_temp2) > 0.01
     slope = (WINI1 - WINI2) / (error_temp1 - error_temp2);
     wnew = WINI2 - slope * error_temp2;
     [x, T, w] = sys2odesRK2(f1, f2, a, b, TINI, wnew, h);
