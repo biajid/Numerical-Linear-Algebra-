@@ -36,4 +36,5 @@ hold on;
 yexact = @(t) 30 + 12.12 .* t - 4.9 .* t.^2;
 tt = linspace(0, 4, 10);
 plot(tt, yexact(tt), 'k*', 'MarkerSize', 8);
-legend('Numerical', 'Exact')
+legend('Numerical', 'Exact');
+rmpath('..');
