@@ -42,7 +42,8 @@ legend('Location', 'best');
 xlabel('x');
 ylabel('y(x)');
 max_error = max(abs(y_exact(x) - c(1) .* psi{1}(x) - c(2) .* psi{2}(x)));
-norm_error = norm(y_exact(x) - c(1) .* psi{1}(x) - c(2) .* psi{2}(x));
+err = y_exact(x) - c(1) .* psi{1}(x) - c(2) .* psi{2}(x);
+norm_error = sqrt(trapz(x, err.^2));
 
 gtext(['Maximum error : ', num2str(max_error)]);
 gtext(['L2 error : ', num2str(norm_error)]);
