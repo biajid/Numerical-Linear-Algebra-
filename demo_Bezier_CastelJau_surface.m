@@ -14,7 +14,7 @@ ylabel('y');
 hold on; grid on; box on;
 
 % Now define control point and contro grid;
-number_control_point = 80;
+number_control_point = 8;
 u_control = linspace(0, 1, number_control_point);
 v_control = linspace(0, 1, number_control_point);
 
@@ -26,7 +26,7 @@ py = -1 + 2 * vgrid;
 pz = sin(pi * px) .* cos(pi * py);
 
 % Now we have to select how many point we would evaluate in our final grid
-n = 300;
+n = 50;
 u_eval = linspace(0, 1, n);
 v_eval = linspace(0, 1, n);
 
@@ -69,9 +69,9 @@ for i = 1 : n
     T = Bezier_CastelJau_Curve(P, v_eval);
 
     % Output T is for each fix u, and for corresponding all vs.
-    X_surf(i, :) = T(:, 1);
-    Y_surf(i, :) = T(:, 2);
-    Z_surf(i, :) = T(:, 3);
+    X_surf(i, :) = T(:, 1)';
+    Y_surf(i, :) = T(:, 2)';
+    Z_surf(i, :) = T(:, 3)';
 
 end
 
@@ -79,4 +79,10 @@ surf(X_surf, Y_surf, Z_surf, 'FaceAlpha', 0.8, 'EdgeColor', 'k', ...
         'LineWidth', 0.3, 'DisplayName', 'DeCastelJau Surface Patch');
 hold off;
 
+figure(3);
+surf(X_surf, Y_surf, Z_surf, 'FaceAlpha', 0.8, 'EdgeColor', 'k', ...
+        'LineWidth', 0.3, 'DisplayName', 'DeCastelJau Surface Patch');
+xlabel('X-axis');
+ylabel('Y-axis');
+zlabel('Z-axis');
 

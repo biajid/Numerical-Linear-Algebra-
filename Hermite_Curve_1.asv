@@ -1,0 +1,42 @@
+clear; close all; clc;
+% Define Endpoints and Derivative at the endpoints
+answer = inputdlg({'P1 = [x; y]', ...
+    'P4 = [x; y]', 'R1 = [x; y]', 'R4 = [x; y]'}, ...
+    'Hermite Curve Data', [1 30], {'[0; 0]', '[10; 0]', ... 
+    '[22; 22]', '[22; 22]']});
+
+P1 = str2double(answer{1});
+P4 = str2double(answer{2});
+R1 = str2double(answer{3});
+R4 = str2double(answer{4});
+
+
+G = [P1 P4 R1 R4];
+
+M = [2 -3 0 1;
+    -2 3 0 0;
+    1 -2 1 0;
+    1 -1 0 0];
+t = linspace(0, 1, 100);
+
+T = [t .^ 3;
+    t .^ 2;
+    t;
+    ones(size(t))];
+
+Q = G * M * T;
+
+plot(Q(1, :), Q(2, :), 'Color', 'red', 'LineWidth', 2);
+
+hold on;
+plot(P1(1), P1(2), 'o', 'MarkerSize', 8, 'MarkerFaceColor','auto');
+plot(P4(1), P4(2), 'o', 'MarkerSize', 8, 'MarkerFaceColor','auto');
+xlabel('X-axis');
+ylabel('Y-axis');
+title('Cubic Curve with Endpoints');
+grid on;
+
+% Now plot the tangent vector 
+quiver(P1(1), P1(2), 0.05 * R1(1), 0.05 * R1(2), 0, 'LineWidth', 2);
+quiver(P4(1), P4(2), 0.05 * R4(1), 0.05 * R4(2), 0, 'LineWidth', 2);
+hold off;
