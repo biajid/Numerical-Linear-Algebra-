@@ -1,0 +1,56 @@
+function [x, iter, residual, epsilon] = Iterative_refinement ...
+    (A, b, epsilon, tol, maxiter)
+% This function solves a linear system using 
+% iterative refinement. 
+% Required input : 
+% A : Matrix of the system.
+% b : right hand side vector.
+% epsilon : initial correction factor. 
+% tol : Maximum tolerance 
+% maxIter: Maximum  number of iteration.
+% Output : [x, iter, residual, maxIter];
+
+[m, n] = size(A);
+
+if m ~= n
+    error('Matrix must be square!');
+end
+
+b = b(:);
+
+if length(b) ~= n 
+    error('Size mismatch between A and b!');
+end
+
+if epsilon <= 0
+    error('Epsilon must be a positive number!');
+end
+
+B = A + epsilon * eye(n);
+
+z = ones(n, 1);
+z = z / norm(z, 2);
+
+delta = 1e-10;
+C = A + delta * eye(n);
+lambda_old = inf;
+
+for k = 1 : maxiter
+    y = C \ z;
+    z = y / norm(y, 2);
+    lambda_new = z' * A * z / (z' * z);
+    if abs(lambda_old - lambda_new) < tol
+        break;
+    end
+
+    lambda_old = lambda_new;
+end
+
+if lambda_new + epsilon <= 0
+    epsilon = -lambda_new + tol;
+end
+
+B = A + epsilon * eye(n);
+
+
+
