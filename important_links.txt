@@ -3038,6 +3038,20 @@ https://jayggg.github.io/fem-supplements/README.html
 Mathematical Computing with python numerical
 https://web.pdx.edu/~gjay/teaching/mth271_2020/html/_CONTENTS.html
 
+Matrix Method in  Data Analysis Gilbert Strang
+https://www.bilibili.com/video/av53055190/
+https://github.com/ws13685555932/18.065_lecture_notes
+
+Mathematics For Machine Learning Yung South Korea
+https://yung-web.github.io/home/courses/mathml.html
+
+Yung Algorithm and Machine Learning with C++
+https://yung-web.github.io/home/
+
+Linear System and Other good resource 
+https://www.bilibili.com/video/BV14C4y1a7Dd/?spm_id_from=333.337.search-card.all.click
+
+
 Matlab Video Lessons Very Good
 https://cs103.net/video-lectures/
 
