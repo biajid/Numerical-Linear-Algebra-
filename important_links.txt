@@ -2711,6 +2711,333 @@ https://www2.stat.duke.edu/~sayan/230/2017/index.html
 Statistical methods sayan
 https://www2.stat.duke.edu/~sayan/Sta613/2017/Sta613.html
 
+Partial Differential Equations and Complex variable cambridge
+https://www.damtp.cam.ac.uk/user/reh10/lectures/
+
+Numerical Reading 
+https://engcourses-uofa.ca/books/numericalanalysis/
+
+Statistics Review 
+https://minerva.it.manchester.ac.uk/~saralees/intro.html
+
+Mathematica Statistics Jun shao advanced
+https://pages.stat.wisc.edu/~shao/
+
+Statistics Books github
+https://github.com/demorenoc/springer-books/blob/master/texts_in_statistics.md
+
+Mathematical Finance
+https://minerva.it.manchester.ac.uk/~saralees/extremes6.html
+
+Phd Qualifying Statistics 
+https://www.stat.rice.edu/~dobelman/courses/texts/qualify/
+
+R programming Oxford Evan Data and problems
+https://www.stats.ox.ac.uk/~evans/Rprog/
+
+R Programming University of Florida
+https://users.phhp.ufl.edu/rlp176/Courses/PHC6089/R_notes/intro.html
+
+Good R programming lecture notes
+https://www.stat.umn.edu/geyer/3701/notes/
+
+Statistics notes
+https://www.stat.umn.edu/geyer/
+
+Applied Regression Analysis
+https://www.stat.uchicago.edu/~yibi/teaching/stat224/
+
+Stat Method 1
+https://www.stat.uchicago.edu/~yibi/teaching/stat244/
+
+Statistical Computing
+https://csg.sph.umich.edu/abecasis/class/
+
+Stochastic Process
+https://gordanz.github.io/stochastic-book/
+
+Python for data analysis
+https://www.sfu.ca/~mjbrydon/tutorials/BAinPy/01_intro.html
+
+Numerical Methods for Differential and Partial Differential Equation
+https://www.math.umd.edu/~mariakc/AMSC661/LectureNotes/
+
+Probability Theory Princeton Masters
+https://erebrova.github.io/ORF526.html
+
+Matlab and Numerical Good Question bank 
+http://classes.pratt.duke.edu/OLD/EGR53F09/resources.html#matlab
+
+Operating System IIT based on Operating System Three Easy Pieces with youtube video, slides, and notes
+https://www.cse.iitb.ac.in/~mythili/os/
+
+Intermediate C very very good
+https://engineering.purdue.edu/OOSD/F2020
+https://purs3lab.github.io/ece264/schedule/
+
+Operating system good professor
+https://purs3lab.github.io/ee469/schedule/
+
+Numerical Very Good class
+https://relate.cs.illinois.edu/course/cs450-s26/
+
+Numerical Partial Differential Equation
+https://relate.cs.illinois.edu/course/cs555-s23/
+
+Numerical Partial Differential Equation Videos
+https://mediaspace.illinois.edu/channel//239344142
+
+Numerical Partial Differential Equation
+https://mediaspace.illinois.edu/channel/channelid/148703211
+
+Old Numerical Gardner 
+https://math.la.asu.edu/~gardner/courses.shtml
+
+Scientific Programming with several language mit
+https://ocw.mit.edu/courses/12-010-computational-methods-of-scientific-programming-fall-2011/pages/lecture-notes/
+
+Data Structure and algorithm
+https://ece.uwaterloo.ca/~cmoreno/ece250/slides-content.html
+https://ece.uwaterloo.ca/~cmoreno/ece250/
+
+Scientific Visualization Very good
+https://websites.umich.edu/~jpboyd/ENG503.html
+
+Good Math Review : calculus, number theory, java, algortihm, data structure, statistics
+https://mathcenter.oxford.emory.edu/site/home/
+
+Mathematical Modeling Lecture Notes
+https://users.ssc.wisc.edu/~jdmontgomery/376textbook.htm
+
+Mathematical Methods in Data Science with Python
+https://mmids-textbook.github.io/index.html
+
+Linear Algebra Good
+https://math345-textbook.github.io/u1-vectors-matrices-linear-maps.html
+
+Good matlab examples
+https://blanchard.neep.wisc.edu/PublicMatlab/#BVP
+
+Linear Physical System
+https://lpsa.swarthmore.edu/
+
+Numerical Differential Equation
+https://lpsa.swarthmore.edu/NumInt/NumIntAll.html
+
+C++ file and data structure 
+https://www.eecs.uottawa.ca/~lucia/courses/2131-04/
+
+Good Numerical
+https://mx.nthu.edu.tw/~jlliu/teaching/LiuLec17x/LiuLec17x.htm
+
+Advanced Statistical Learning Theory with Computation
+https://www.stat.berkeley.edu/~ryantibs/statlearn-s23/
+
+Good Automata and Proofs from Stanford
+https://web.stanford.edu/class/archive/cs/cs103/cs103.1268/schedule.html
+
+Algorithm Stanford
+https://cs161-stanford.github.io/lectures/
+https://stanford-cs161.github.io/winter2026/lectures/
+
+Numerical Linear Algebra Stanford
+https://ericdarve.github.io/NLA/content/intro.html
+
+Numerical Linear Algebra slides and notes by Golub
+https://www.stat.uchicago.edu/~lekheng/courses/302/
+
+CS classes
+https://github.com/Developer-Y/cs-video-courses
+
+Stanford CS Classes 
+https://github.com/isLinXu/Stanford-CS-Course/blob/main/README.en.md
+
+USA Computing Olympiad
+https://usaco.org/index.php?page=training
+
+Algorithm Advanced Notes
+https://timroughgarden.org/notes.html
+
+Good CS Resource 
+https://gist.github.com/jahngalt/9d1afc26226906376ee183ce93d7b9b6
+
+Numerical Linear Algebra Very good
+https://github.com/fastai/numerical-linear-algebra-v2/tree/master/nbs
+
+Numerical Linear Algebra
+https://github.com/fastai/numerical-linear-algebra
+
+Functional Analysis for Engineers 
+https://web.eecs.umich.edu/~fessler/course/600/l/
+
+Computer Aided Geometry Design
+https://transport.itu.edu.tr/dersler/lisansustudersleri/mks537e/coursenotes
+
+Numerical Linear Algebra Slides Very good
+https://student.cs.uwaterloo.ca/~cs475/CS475-Lecture01.pdf
+
+Old Numerical 
+https://cs.uwaterloo.ca/~kogeddes/teaching/materials.html#cs487
+
+Symbolic Computations
+https://student.cs.uwaterloo.ca/~cs487/handouts.shtml
+
+Good Operating System
+https://pages.cs.wisc.edu/~bart/includes/teaching.html
+
+Control System and Numerical Optimization Notes good
+https://cse.lab.imtlucca.it/~bemporad/teaching.html
+
+Numerical Analysis Programs in Matlab
+https://cse.engineering.nyu.edu/~mleung/CS3734/s03/CS3734s03Instruction.htm
+https://cse.engineering.nyu.edu/~mleung/CS4744/f03/CS4744f03Instruction.htm
+
+
+Computer Simulation
+https://cse.engineering.nyu.edu/~mleung/CS909/s03/CS909s03.htm
+
+good c++
+https://cse.engineering.nyu.edu/~mleung/CS1114/f03/CS1114f03.htm
+
+Numerical Old
+https://cse.engineering.nyu.edu/~mleung/CS3734/s05/
+
+Old Computer Science and Electronics Lecture
+https://www.cl.cam.ac.uk/teaching/Lectures/
+
+Old Functional Programming 
+https://web.archive.org/web/19971009004247/http://www.dcs.napier.ac.uk/course-notes/sml/manual.html
+
+Functional Programming Lecture note very good old
+https://www.cl.cam.ac.uk/teaching/Lectures/funprog-jrh-1996/index.html
+
+https://www.cl.cam.ac.uk/teaching/Lectures/funprog-jrh/
+
+Computational Logic
+https://moodle.risc.jku.at/course/view.php?id=230
+
+C++ live lectures
+https://moodle.risc.jku.at/course/view.php?id=226
+
+Discrete Math
+https://www3.risc.jku.at/education/courses/ws99/formal/
+
+Good Computer Science with live lectures
+https://www3.risc.jku.at/people/schreine/
+
+Good Matlab Tutorial
+https://tlakoba.w3.uvm.edu/MATLAB_resources/ML_neuman1.pdf
+
+Scientific Computing in Python
+https://github.com/natrask/ENM1050/tree/main/Slides
+
+Computer Aided Geometry
+https://www.cis.upenn.edu/~jean/lecnotes/cursurf.html
+
+old computer and math
+https://www.cis.upenn.edu/~jean/lecnotes/home.html
+
+Fourier Series and PDE lecture note very good
+https://sites.math.washington.edu//~toro/Courses/19-20/480/lectures.html
+
+Good Real analysis 1 and 2 and geometric analysis
+https://sites.math.washington.edu//~toro/Courses/archive.html
+
+Optimization Chinese Professor 
+https://jhc.sjtu.edu.cn/~kuanyang/teaching/MATH3806/
+
+Good Statistics
+https://faculty.washington.edu/yenchic/links.html
+https://faculty.washington.edu/yenchic/17Sp_403/
+
+Machine Learning Good
+https://web.eecs.umich.edu/~cscott/past_courses/eecs545f15/index.html
+
+Statistical Signal Processing 
+https://web.eecs.umich.edu/~cscott/past_courses/eecs564w12/index.html
+
+Statistical Learning Theory
+https://web.eecs.umich.edu/~cscott/past_courses/eecs598w14/index.html
+
+Steven Kay Random Process for Signal Lecture note
+https://www.ele.uri.edu/Courses/ele509/notes.html
+
+Steven Kay Estimation Theory
+https://www.ele.uri.edu/Courses/ele661/notes.html
+
+Steven Kay Modulation and Detection
+https://www.ele.uri.edu/Courses/ele665/notes.html
+
+Introduction to Signal Processing 
+https://www.princeton.edu/~cuff/ele201old2015/schedule.html
+
+Signals and System Princeton
+https://www.princeton.edu/~cuff/ele301/schedule.html
+
+Signal Estimation Theory
+https://ws.binghamton.edu/fowler/fowler%20personal%20page/EE522.htm
+
+Digital Signal Processing 
+https://ws.binghamton.edu/fowler/fowler%20personal%20page/EE301.htm
+https://ws.binghamton.edu/fowler/fowler%20personal%20page/EE521.htm
+
+Signal and System Mark Fowler good
+https://ws.binghamton.edu/fowler/Fowler%20Personal%20Page/EECE301%20-%20Flipped.htm
+
+Fourier Method for Engineering 
+https://engineering.purdue.edu/ME579/lecture_notes.html
+
+Numerical Optimization 
+https://www.math.kent.edu/~reichel/courses/optimization/
+
+Amir Beck Numerical Optimization
+https://sites.google.com/site/amirbeck314/books?authuser=0
+
+Math For Computer Science
+https://www.cis.upenn.edu/~jean/
+
+Mathematical Finance
+https://www.math.drexel.edu/~tyu/Math449/index.html
+
+Optimization Detailed
+https://www.math.drexel.edu/~tyu/Math670/
+
+Good Statistics and Optimization Resource
+https://www.math.drexel.edu/~tyu/
+
+Zeilberger Calculus
+https://sites.math.rutgers.edu/~zeilberg/DrZhandouts.html
+
+Zeilberger Differential Equation
+https://sites.math.rutgers.edu/~zeilberg/DrZCalc4handouts.html
+
+Zeilberger Partial Differential Equation
+https://sites.math.rutgers.edu/~zeilberg/DrZCalc5Handouts.html
+
+Zeilberger Number Theory
+https://sites.math.rutgers.edu/~zeilberg/DrZNumberTheoryhandouts.html
+
+Zeilberger Probability
+https://sites.math.rutgers.edu/~zeilberg/DrZProbabilityHandouts.html
+
+Doron Zeilberger Good Teaching Material
+https://sites.math.rutgers.edu/~zeilberg/teaching.html
+
+Allison Stochastic Lecture Notes
+https://www.stats.ox.ac.uk/~etheridg/
+
+Matlab MIT
+https://ocw.mit.edu/courses/6-057-introduction-to-matlab-january-iap-2019/pages/lecture-notes/
+
+Haskell
+https://www.cis.upenn.edu/~cis1940/fall16/
+
+Experiment with Finite Element Method
+https://jayggg.github.io/fem-supplements/README.html
+
+Mathematical Computing with python numerical
+https://web.pdx.edu/~gjay/teaching/mth271_2020/html/_CONTENTS.html
+
 Matlab Video Lessons Very Good
 https://cs103.net/video-lectures/
 
