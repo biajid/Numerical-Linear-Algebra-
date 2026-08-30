@@ -3051,6 +3051,262 @@ https://yung-web.github.io/home/
 Linear System and Other good resource 
 https://www.bilibili.com/video/BV14C4y1a7Dd/?spm_id_from=333.337.search-card.all.click
 
+Mathematical Finance Nicholas 
+https://personal.ntu.edu.sg/nprivault/indext.html
+
+EE Courses with Video Berkely
+https://www.bilibili.com/medialist/detail/ml968018726?type=1
+
+Feedback System
+https://fbswiki.org/wiki/index.php/Feedback_Systems:_An_Introduction_for_Scientists_and_Engineers
+
+Good math
+https://murray.cds.caltech.edu/Main_Page#Teaching
+
+Machine Learning 
+https://ratlifflj.github.io/S22-445/
+
+Linear System
+https://ratlifflj.github.io/W22-547/
+
+Non Linear System
+https://homepage.ntu.edu.tw/~fengli/Teaching/NonlinearSystems/
+
+Digital Control System
+https://homepage.ntu.edu.tw/~fengli/Teaching/DigitalControl/
+
+Computer Architecture Masters
+https://inst.eecs.berkeley.edu/~cs152/sp26/
+
+
+EE Courses 
+https://cmosedu.com/jbaker/courses/
+
+Scientific Computing PDE and lab
+https://ece.uwaterloo.ca/~ne217/Laboratories/
+
+Foundation of Mathematics Proof Good
+https://sites.google.com/view/davidcovert/teaching/math-3250-foundations?authuser=0
+
+Math Competition Problems
+https://sites.google.com/view/davidcovert/teaching/math-3100-problem-solving?authuser=0
+
+Combinatorics and Graph  Theory
+https://www.whitman.edu/mathematics/cgt_online/book/
+
+Theory of computation slides
+https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/pages/lecture-notes/
+
+Some good machine learning cryptography algorithm
+https://crypto.stanford.edu/~dabo/
+
+Numerical Solution of Partial Differential Equation stanford
+https://web.stanford.edu/class/cs237c/
+https://web.stanford.edu/class/cs237d/
+
+Numerical Linear Algebra Stanford
+https://web.stanford.edu/class/cs205l/lectures.html
+
+Stanford Partial Differential Equation
+https://web.stanford.edu/class/math220a/lecturenotes.html
+https://web.stanford.edu/class/math220b/lecturenotes.html
+
+Good Math classes 
+https://strickland1.org/courses/
+
+Scientific Python
+https://lectures.scientific-python.org/
+
+A crash Course for python scientific computing
+https://nbviewer.org/gist/rpmuller/5920182
+
+Scientific computing in python sheffield
+https://sam-dolan.sites.sheffield.ac.uk/mas212-course/lectures-and-lab-classes
+
+Good math Greenberg
+https://www.cip.ifi.lmu.de/~grinberg/
+https://www.cip.ifi.lmu.de/~grinberg/t/index.html
+
+R Tutorial
+https://tomstafford.github.io/psy6422/
+
+Python CMU
+https://www.cs.cmu.edu/~15110-n15/schedule.html
+
+Numerical Analysis 1 Slide UC Davis
+https://github.com/missicolin/MAT128A-Numerical-Analysis/blob/master/Lectures/Lectures_BeforeMidterm.pdf
+
+Good Numerical and Optimization UC Davis
+https://github.com/missicolin
+
+Math Classes
+https://github.com/Developer-Y/math-science-video-lectures
+
+Numerical Analysis Berkely 128a
+https://persson.berkeley.edu/math128a/
+
+Numerical analysis Berkely 128b
+https://math.berkeley.edu/~mgu/MA128BSpring2018/index.html
+
+Numerical analysis Berkely 128a
+https://math.berkeley.edu/~mgu/MA128AFall2017/index.html
+
+Numerical Solution of Differential Equation Berkely
+https://persson.berkeley.edu/math228b/
+
+Good Numerical and matrix computation berkely
+https://people.eecs.berkeley.edu/~demmel/
+https://math.berkeley.edu/~mgu/
+
+Berkely Linear Algebra
+https://math.berkeley.edu/~arash/54/notes/
+
+Berkely Multivariable calculus
+https://math.berkeley.edu/~arash/53/notes/
+
+Berkely Linear Algebra
+https://lin-lin.github.io/MATH54/
+
+Good Numerical Berkely
+https://lin.caltech.edu/teaching.html
+
+Berkely Machine Learning
+https://eecs189.org/fa26/resources/#notes
+
+Berkely Feedback Control System
+https://people.eecs.berkeley.edu/~sojoudi/Course_EE128_SP_2023.html
+
+Linear Systems NYU
+https://www.cns.nyu.edu/~david/handouts/
+
+Numerical Computing Donev NYU
+https://math.nyu.edu/inmemoriam/donev/Teaching/
+
+Probability in PYthon great work book
+https://jeanwalrand.github.io/PeecsJB/intro.html
+
+Good Math Notes
+https://www.kany.es/notes
+
+Python Bootcamp Berkely
+https://github.com/profjsb/python-bootcamp/tree/master
+
+Digital Signal Processing Berkely
+https://sites.google.com/berkeley.edu/ee123-sp21/home
+
+Signal Processing 
+https://www.fourierandwavelets.org/resources.php#Slides
+
+Electrical Power System Lecture Note
+https://www.keithmoffat.com/intrepslecturenotes
+
+Linear System Few Slides
+https://www.keithmoffat.com/cs_courseslides
+
+Matlab Berkely
+https://math.berkeley.edu/~andrewshi/math98/sp22/98-sp22.html
+
+Computational Control Video Course
+https://www.bsaver.io/teaching/computational-control
+
+Great lecture for EEE
+https://cmosedu.com/jbaker/courses/
+
+Linear System Theory Berkely Lecture Notes
+https://github.com/steveWang/Notes/blob/master/fa2012/ee221a/1.md
+
+Advanced Control Theory Berkely
+https://pages.github.berkeley.edu/ee290-005/sp21-site/calendar/
+
+Computer Vision Berkely
+https://cs280-berkeley.github.io/sp23.html
+
+CS and EE courses Berkely
+https://rsha256.github.io/main.html
+
+Linear System and other control engineering courses Technion Very good
+https://leo.technion.ac.il/Courses/ME/LS/
+
+Feedback system for engineers:
+https://fbswiki.org/wiki/index.php/Feedback_Systems:_An_Introduction_for_Scientists_and_Engineers
+
+Advanced C++ for EE
+https://github.com/klavins/ECEP520/tree/master
+
+Signals and system
+https://github.com/klavins/ECE447
+
+Very good review for linear algebra, multivariable calculus, and probability
+https://vistalab-technion.github.io/cs236781/supplements/linear_algebra/
+https://vistalab-technion.github.io/cs236781/supplements/
+
+Good Python 
+https://github.com/jerry-git/learn-python3
+
+Technion Deep Learning Tutorial good
+https://github.com/vistalab-technion/cs236781-tutorials
+
+Electromagnetics with Video
+https://sites.google.com/view/ryanbgreenphd/teaching/electromagnetics-i?authuser=0
+
+Function Space Methods
+https://web.eecs.umich.edu/~fessler/course/600/l/
+
+Cornell Linear Algebra
+https://vod.video.cornell.edu/channel/MATH%2B2940%2B-%2BLinear%2BAlgebra%2Bfor%2BEngineers%2BSpring%2B2009/114208531
+
+CS Courses 
+https://github.com/jerich2121/cs-video-courses
+
+Numerical Linear Algebra for math 391 fresler class
+https://github.com/DarrenJAN/Umich/tree/main/EECS551
+https://github.com/DarrenJAN/Umich/tree/main/EECS551/Homework
+
+Differential Equation Masters
+https://people.math.wisc.edu/~angenent/519.2016s/
+
+very good control systems
+https://eecs16b.org/
+https://eecs16a.org/
+
+control eecs 221a
+https://github.com/steveWang/Notes/blob/master/fa2012/ee221a/1.md
+
+Good old math with complex analysis and Advanced analysis
+https://www.math.utah.edu/~korevaar/oldclasses.html
+
+Good Numerical linear algebra advanced 
+https://www.dm.unibo.it/~simoncin/corso.html
+
+Partial Differential Equation Daniel Ariggo Very Good
+http://danielarrigo.com/math-4315---pdes.html
+
+Good Calc3 and other good mathematics
+http://www.danielarrigo.com/calc-3-2026.html
+
+Numerical Oxford
+https://courses.maths.ox.ac.uk/course/view.php?id=5502
+
+Oxford Course List
+https://courses.maths.ox.ac.uk/course/index.php?categoryid=804
+
+Numerical Methods for Partial Differential Equation Slides
+https://github.com/MonashMath/MTH3340/tree/main/assets/slides
+
+Differential Equation, Linear Algebra and Operating System Very good
+https://rongyi.page/notes/wisc/math/math519
+
+Multivariable Calculus videos Michel hutching very good
+https://math.berkeley.edu/~hutching/teach/53videos.html
+
+Linear Algebra and Differential Equation video berkely very good
+https://math.berkeley.edu/~apaulin/54%20(Spring%202022).html
+
+Linear Berkley lecture notes
+https://github.com/lin-lin/MATH54
+
+CS Notes
+https://github.com/bobeff/programming-math-science
 
 Matlab Video Lessons Very Good
 https://cs103.net/video-lectures/
