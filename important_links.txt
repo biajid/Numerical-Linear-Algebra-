@@ -3308,6 +3308,51 @@ https://github.com/lin-lin/MATH54
 CS Notes
 https://github.com/bobeff/programming-math-science
 
+Python Lesson
+https://github.com/illinois-cse/python-sp16/tree/gh-pages/lessons
+
+High Performance Scientific Computing 
+https://andreask.cs.illinois.edu/Teaching/HPCFall2012/
+
+Scientific Computing UIUC very very good
+https://mathema.tician.de/teaching/
+
+Michael Taylor UNC Math Lecture notes
+https://mtaylor.web.unc.edu/notes/
+
+Linear Algebra Problems 
+https://github.com/whuang369/MATH-341
+
+good stat classes
+https://github.com/kapelner
+
+Phd Economics Macroeconomics
+https://phdmacrobook.org/
+
+Economics lecture note with some good math
+https://sites.google.com/view/toshimukoyama/notes?authuser=0
+
+Intermediate MacroEconomics mariana
+https://marina-azzimonti.com/teaching/
+
+Intermediate Macroeconomics with video and slides
+https://www.murraylax.org/eco305/spring2024/
+
+Money and Banking
+https://murraylax.org/eco301/fall2026/#main
+
+Introductory macroeconomics with video
+https://murraylax.org/eco120/fall2026/
+
+MicroEconomics
+https://felixmunozgarcia.com/lecture-notes/
+
+Economics course information github
+https://github.com/Alalalalaki/Guide2EconRA
+
+Economics Notes with Programming 
+https://www.sas.upenn.edu/~jesusfv/teaching.html
+
 Matlab Video Lessons Very Good
 https://cs103.net/video-lectures/
 
