@@ -3353,6 +3353,285 @@ https://github.com/Alalalalaki/Guide2EconRA
 Economics Notes with Programming 
 https://www.sas.upenn.edu/~jesusfv/teaching.html
 
+
+Python for numerical scipy
+https://scipy-lectures.org/intro/
+
+Numerical Solution of Ordinary Differential Equation ETH 
+https://people.math.ethz.ch/~grsam/SS26/NAII/
+
+Numerical Method ETH Zurich
+https://people.math.ethz.ch/~grsam/NumMeth/Parts/
+
+Computer Vision (look back propagation)
+https://www.eecs.umich.edu/courses/eecs442/fa24/
+
+Generative AI Models
+https://www.cs.cornell.edu/courses/cs5788/2026sp/
+
+Computer Vision
+https://www.cs.cornell.edu/courses/cs5670/2025fa/
+
+Mathematics of Data Science Advanced
+https://yuxinchen2020.github.io/ele520_math_data/lectures.html
+
+Mathematics of High Dimensional Data
+https://yuxinchen2020.github.io/ele538_math_data/lectures.html
+
+Ajay Ghatak Quantum Mechanics
+https://www.nptel.ac.in/courses/115102023
+
+Quantum Electronics Thayagirajan
+https://www.nptel.ac.in/courses/115102022
+
+Numerical Solution of Partial Differential Equation
+https://canvas.ubc.ca/courses/62883/modules#module_344246
+
+Python Crash Course 
+https://github.com/OpenChemE/computational-methods/tree/master/Python%20Crash%20Course
+
+python tutorial
+https://github.com/OpenChemE/computational-methods/tree/master
+
+Python Tutorial
+https://github.com/OpenChemE/Tutorials-2018W2
+
+Calculus textbook very good
+https://personal.math.ubc.ca/~CLP/
+
+R and Python 
+https://intro.syzygy.ca/
+
+Math Modeling Very Good
+https://ubcmath.github.io/MATH360/README.html
+
+Python very good
+https://ubcmath.github.io/python/
+
+Jupyter Notebook
+https://jupyter4edu.github.io/jupyter-edu-book/
+https://ctlmath.github.io/birs2025/resources.html
+
+Patrick ca computational mathematics teaching professor
+https://patrickwalls.github.io/#ctlmath
+
+Numerical Partial Differential Equation
+https://canvas.ubc.ca/courses/62883
+
+Mathematical Modeling read soon
+https://ubcmath.github.io/MATH360/README.html
+
+Loss of Precision codes in matlab
+http://www.csun.edu/~ama5348/csun2006f/math581/notes/demos.htm
+
+Numerical analysis matlab code
+http://www.csun.edu/~ama5348/csun2005s/math481a/notes/demos.htm
+
+Calculus 3 handwritten note
+http://www.csun.edu/~ama5348/csun2004s/math250/smrs.htm
+
+Software Engineering Course with video UBC
+https://github.com/ubccpsc/310/blob/2018sept/README.md
+
+Advanced software engineering with IEEE paper study
+https://github.com/ubccpsc/507/tree/2025sept
+
+Advanced Software Engineering with slides
+https://www.students.cs.ubc.ca/~cs-410/archive/2015W1/
+
+Quantum Mechanics Ben Simon
+https://www.tcm.phy.cam.ac.uk/~bds10/aqp.html
+
+Good Background for Matheatical physics
+https://www-thphys.physics.ox.ac.uk/people/JamesBinney/lectures.html
+
+Very good physics and quantum mechanics
+https://www.felixflicker.com/teaching
+
+Good Pure math
+https://www.cip.ifi.lmu.de/~grinberg/t/index.html
+
+Computer Architecture IIT Professor at wisconsin
+https://karu.sites.cs.wisc.edu/courses/cs552/spring2021/wiki/index.php/Main/CourseCalendar
+
+computer architecture with c very good undergrad
+https://pages.cs.wisc.edu/~markhill/cs354/Fall2008/includes/schedule.html
+
+Operating system very good
+https://pages.cs.wisc.edu/~bart/537/lecturenotes/titlepage.html
+
+Operating system with new slides good
+https://canvas.wisc.edu/courses/485415
+
+Differential Equation Handwritten note
+https://personal.math.ubc.ca/~keshet/math265/index.html
+
+computational geometry
+https://faculty.sites.iastate.edu/jia/introduction-computational-geometry-coms-41805180
+
+AI and machine learning 
+https://faculty.sites.iastate.edu/jia/principles-artificial-intelligence-coms-47205720
+
+Robotics and computer vision 
+https://faculty.sites.iastate.edu/jia/foundations-robotics-and-computer-vision-coms-47705770
+
+IIT Very good math with books and notes
+https://github.com/mihirm21/mth_iitk/tree/main
+
+Jason Cantarella very good math with numerical
+https://jasoncantarella.com/wordpress/courses/
+
+Fluid Dynamics Bible Italy
+https://www.fluiddynamics.it/INDEX.HTM
+
+Regression Modeling 
+https://r-resources.massey.ac.nz/161251/lectures/index.html
+
+Regression IIT
+https://home.iitk.ac.in/~shalab/course5.htm
+
+High Performance Computing 
+https://amath583.github.io/sp20/units/L1.html
+
+High Performance Computing with C++
+https://lums658.github.io/amath583s19/
+
+Parallel Computing 
+https://www.cs.purdue.edu/homes/ayg/book/Slides/
+
+High Performance Computing York University
+https://www-users.york.ac.uk/~mijp1/teaching/4th_year_HPC/notes.shtml
+
+Advanced Material Science Modeling 
+https://www-users.york.ac.uk/~mijp1/teaching/grad_FPMM/notes.shtml
+
+Computational Quantum Mechanics
+https://www-users.york.ac.uk/~mijp1/teaching/3rd_year_CQM/index.shtml
+
+Scientific Computing Lab
+https://www-users.york.ac.uk/~mijp1/teaching/2nd_year_Comp_Lab/index.shtml
+
+High Performance Computing 
+https://github.com/vanderbiltscl/SC3260_HPC/tree/master/lectures
+
+Numerical Linear Algebra (masters level question)
+https://math.utep.edu/faculty/sewell/5330/5330j.htm
+
+Numerical Analysis Diffe PDE Matrix algebra good
+https://math.utep.edu/faculty/sewell/
+
+Good Linear Algebra Differential Equation and Lie Algebra 
+https://math.stanford.edu/~eliash/Public/53h-2011/53h-extra-2011.html
+
+Computability, Complexity, Language and Automata
+https://engineering.purdue.edu/kak/ComputabilityComplexityLanguages/Index.html
+
+Computer security avanish kak
+https://engineering.purdue.edu/kak/compsec/Lectures.html
+
+Object Oriented Programming Github
+https://github.com/getvmio/free-object-oriented-programming-resources
+
+Advanced Matrix Theory and Computations
+https://tropp.caltech.edu/courses.html#lecturenotes
+
+Bordia Linear algebra and operator 
+https://cseweb.ucsd.edu/~gill/CILASite/Resources/
+
+Control Engineering 
+https://control.asu.edu/
+
+Modern Control System
+https://control.asu.edu/Classes/MAE507/507Lecture01.pdf
+
+Proof based linear algebra
+https://archive.math.arizona.edu/glickenstein/math413f15/
+
+Good C Data Structures
+https://josephcclin.github.io/courses/data_structures.htm
+
+Mathematics For Machine Learning 
+https://josephcclin.github.io/courses/machine_learning_math.htm
+
+Economics and computation
+https://josephcclin.github.io/courses/ec_and_agt.htm
+
+Randomized Algorithm
+https://josephcclin.github.io/courses/randomized_algorithms.htm
+
+statistics and matrix algebra short lessons
+https://www.statlect.com/
+
+Graduate Level Linear Algebra easy, good and short
+https://www.math.purdue.edu/~eremenko/dvi/511/
+https://www.math.purdue.edu/~eremenko/lecturenotes.html
+
+calc3 matlab code
+https://www.math.purdue.edu/%7Erkaufman/MA261f19/261.html
+
+Linear algebra based on gilbert very good and short
+https://www.math.purdue.edu/~walther/teach/511/511S14syl.html
+
+Fourier analysis course good
+https://www.math.purdue.edu/~eremenko/520.html
+
+Complex analysis good
+https://www.math.purdue.edu/~eremenko/525.html
+
+Ordinary Differential Equation good
+https://www.math.purdue.edu/~eremenko/366.html
+
+Fourier analysis and other mathematical Physics very good
+https://sites.math.washington.edu//~toro/Courses/19-20/480/lectures.html
+
+String Theory For Mathematician very good intro to quantum mechanics and classical mechanics
+https://katzs.web.illinois.edu/class/s25/
+
+Abstract Linear Algebra Undergrad UIUC soon
+https://felixleditzky.info/teaching/FT21/MATH416_linear_algebra.html#lectures
+
+Quantum Mechanics by a math professor with linear algebra
+https://felixleditzky.info/#teaching
+
+Math 257 Linear Algebra With Application UIUC soon
+https://mediaspace.illinois.edu/playlist/dedicated/1_sbehz0wr/1_hgiluora
+
+Random Matrix Theory Mark 
+https://www.maths.ox.ac.uk/groups/mathematical-physics/random-matrix-theory/random-matrices-classical-compact-groups-panorama
+
+Mecke Math Lecture
+https://case.edu/artsci/math/mwmeckes/teaching.html
+
+Oliver Knill Very Good Math
+https://people.math.harvard.edu/~knill/teach/index.html
+
+Linear Algebra Notes Oliver knill use 01 for 1 and so on
+https://people.math.harvard.edu/~knill/teaching/math19b_2011/handouts/lecture33.pdf
+
+computer architecture
+https://users.ece.utexas.edu/~welkermw/EE319k/lectures/
+
+semidefinite optimization
+https://lall.stanford.edu/ee464/lectures.html
+
+Latex Tutorial
+https://latex-tutorial.com/tutorials/
+
+Very Good Computer Science Algorithm Data Structure Language
+https://cglab.ca/~morin/
+
+PHD Math Qualification Exam
+https://winstoncheong.github.io/Better-KSU-Math-Exam-Archive/quals/
+
+Old Math Phd Qualification Exam
+https://github.com/winstoncheong/Better-KSU-Math-Exam-Archive/tree/main/quals/older-system
+
+Linear algebra github resource
+https://github.com/topics/linear-algebra
+
+Numerical Linear Algebra For Robotics 
+https://github.com/michiganrobotics/rob101/tree/main/Fall%202020/Lecture%20Notes
+
 Matlab Video Lessons Very Good
 https://cs103.net/video-lectures/
 
