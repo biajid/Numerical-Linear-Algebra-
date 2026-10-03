@@ -1,0 +1,9 @@
+function out = my_polynomial_evaluation(P, x)
+% This function evaluates P(x), where x is a scalar or 
+% vector where polynomial would be evaluated. 
+% Polynomial is expected to be of descending order of powers. 
+out = 0;
+xx = 1;
+
+for i = length(P) :
+    out = out + 
