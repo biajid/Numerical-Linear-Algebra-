@@ -1,0 +1,8 @@
+function y = my_polynomial_addition(p, q)
+    % This function performs addition of two 
+    % polynomials p and q.
+    % It returns the resultant polynomial of appro.
+    % descending order of powers. 
+    % for example: p = [1, 2, 3, 4] would imply 
+    % x^3 + 2 * x ^ 2 + 3 * x + 4;
+    
