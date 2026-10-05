@@ -3632,6 +3632,99 @@ https://github.com/topics/linear-algebra
 Numerical Linear Algebra For Robotics 
 https://github.com/michiganrobotics/rob101/tree/main/Fall%202020/Lecture%20Notes
 
+Topology note
+https://faculty.etsu.edu/gardnerr/5357/notes.htm#chapter1
+
+Topology Lecture Note good
+https://sites.millersville.edu/bikenaga/topology/topology-notes.html
+
+Very Good Math Lecture Notes abstract algebra proof topology
+https://sites.millersville.edu/bikenaga/math-resources.html
+
+Scientific Computing Oxford Training
+https://train.rse.ox.ac.uk/material
+
+Graph Theory
+https://www.cip.ifi.lmu.de/~grinberg/t/23s/index.html
+
+Good mathematics advanced and basic
+https://www.cip.ifi.lmu.de/~grinberg/t/index.html
+
+Math reasoning soon
+https://www.cip.ifi.lmu.de/~grinberg/t/21fin/index.html
+
+Advanced Matlab For Scientific Computing soon
+https://mjzahr.github.io/teach-stanford-cme292-aut14.html
+
+Some Partial Differential Equation notes
+https://personal.math.ubc.ca/~loew/m316/
+
+Real Analysis Notes
+https://arechnitzer.gitlab.io/m319text/ch-motivation.html
+
+Real Analysis Books
+https://classicalrealanalysis.info/Free-Downloads.php
+
+proof book
+https://personal.math.ubc.ca/~PLP/auxiliary.html
+
+Proof and Real Analysis
+https://personal.math.ubc.ca/~andrewr/textbooks.html
+
+Real Analysis 
+https://personal.math.ubc.ca/~loew/m320/
+
+Free Calculus Book
+https://personal.math.ubc.ca/~CLP/
+
+Interest Theory Lecture Notes
+https://www.math.hkbu.edu.hk/~hpeng/stat3820/Chapter_1.pdf
+
+Abstract Algebra and Group Theory 55a Harvard
+https://canvas.harvard.edu/courses/154983/assignments/syllabus#lectures
+
+Real and Complex Analysis 55b harvard
+https://canvas.harvard.edu/courses/162402/assignments/syllabus#lectures
+
+Data Driven Scientific computing brunton kutz
+https://databookuw.com/
+
+Parallel Scientific Computing 
+https://webspace.science.uu.nl/~bisse101/Book2/psc2
+
+Discrete Applied Mathematics with Discrete Modeling 
+and Fourier Transform 
+https://math.mit.edu/~goemans/18310S15/18310A.html
+
+Linear Algebra MIT new material
+https://github.com/mitmath/1806/tree/fall22
+
+MIT Partial Differential Equations
+https://github.com/mitmath/18303
+
+MIT Applied Mathematics and Modeling good handwritten
+https://github.com/ajhPHROS?tab=repositories
+
+Jeff Erickson Algorithm and Other lecture notes cs
+https://jeffe.cs.illinois.edu/teaching/algorithms/#notes
+
+
+Parallel Computing 
+https://www.csd.uwo.ca/~mmorenom/CS855b-parSC-0708.html
+
+EE16b signal and system 2
+https://eecs16b.org/
+
+EE16 signal and system 1
+https://eecs16a.org/
+
+Discrete Math
+https://www.eecs70.org/
+
+circuit analysis berkely
+https://rfic.eecs.berkeley.edu/courses/ee42_100/lectures.html
+
+
 Matlab Video Lessons Very Good
 https://cs103.net/video-lectures/
 
