@@ -3724,6 +3724,15 @@ https://www.eecs70.org/
 circuit analysis berkely
 https://rfic.eecs.berkeley.edu/courses/ee42_100/lectures.html
 
+Past Exam Berkely
+https://tbp.studentorg.berkeley.edu/courses/
+
+Circuit MIT
+https://ocw.mit.edu/courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/pages/lecture-notes/
+
+Probability and Random Variables for Engineers good
+https://sites.google.com/view/muqaibel/teaching/courses/ee315-probability-and-random-processes-for-engineers?authuser=0
+
 
 Matlab Video Lessons Very Good
 https://cs103.net/video-lectures/
