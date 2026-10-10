@@ -3733,6 +3733,33 @@ https://ocw.mit.edu/courses/6-071j-introduction-to-electronics-signals-and-measu
 Probability and Random Variables for Engineers good
 https://sites.google.com/view/muqaibel/teaching/courses/ee315-probability-and-random-processes-for-engineers?authuser=0
 
+Digital Signal Processing Glasgow
+https://berndporr.github.io/digital_signal_processing/#a0000000015
+
+Probability Harvard
+https://stat110.hsites.harvard.edu/about
+
+Probability libratext
+https://stats.libretexts.org/Bookshelves/Probability_Theory/Probability_Mathematical_Statistics_and_Stochastic_Processes_(Siegrist)
+
+Multivariate Statistics Shefield
+https://rich-d-wilkinson.github.io/MATH3030/
+
+Good Engineering Mathematics 
+https://people.duke.edu/~hpgavin/
+
+Very Good Linear Algebra and Numerical Analysis
+http://mitran-lab.amath.unc.edu/#!index.md
+
+Statistical Model Shefield 
+https://rich-d-wilkinson.github.io/G12SMM.html
+
+
+Python Lesson UNSW
+https://web.maths.unsw.edu.au/~mclean/Python_Lessons/index.html
+
+Julia Lesson UNSW
+https://web.maths.unsw.edu.au/~mclean/Julia_Lessons/index.html
 
 Matlab Video Lessons Very Good
 https://cs103.net/video-lectures/
