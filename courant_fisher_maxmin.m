@@ -43,7 +43,7 @@ function [curr_lambda, curr_v] = courant_fisher_maxmin(A, k, step_size, max_oute
 			break;
 		end
 
-		grad_q = A * Q * curr_v * curr_v';
+		grad_q = A * (Q * curr_v) * curr_v';
 
 		% Now we do the gradient ascent
 		Q = Q + step_size * grad_q;
