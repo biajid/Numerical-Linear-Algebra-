@@ -1,8 +1,9 @@
 function [curr_lambda, curr_v] = courant_fisher_minmax(A, k, step_size, max_outer_iter)
 
-	% This function gets the eigenvalue and eigenvector pair of a symmetrix Matrix A.
+	% This function gets the k-th eigenvalue and eigenvector pair of a symmetrix Matrix A.
 	% usage : [lambda_k, v_k] = courant_fisher_minmax(A, k, step_size, max_outer_iter)
 	% step_size and max_outer_iter are optional arguments.
+	% lambda1 <= lambda2 <= ... <= lambda_k <= ...<= lambda_n
 	
 	if nargin < 3
 		step_size = 0.05;
