@@ -1,9 +1,10 @@
 function [lambda, v, iter] = my_power_method(A, tol, max_iter, guess_eig)
-    % This function will calculate the smallest eigenvalue of a 
+    % This function will calculate the eigenvalue of a 
     % matrix through shifted inverse power iteration, and would perform better if the matrix is symmetric.
     % usage [lambda, v, iter] = my_power_method(A, tolerance, max_iter, guess_eig)
+    % If no guess is given, it will return the smallest eigenvalue.
     if nargin < 4
-        guess_eig = min(sum(abs(A), 2));
+        guess_eig = 0;
     end
     if nargin < 3
         max_iter = 100;

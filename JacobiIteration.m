@@ -1,6 +1,9 @@
-function x = JacobiIteration(A, b, x0, tol, maxIter)
+function [x, count] = JacobiIteration(A, b, x0, tol, maxIter)
 % This function performs jacobi iteration to get the solution 
 % of a system of equation. 
+% Signature of the function
+% function [x, count] = JacobiIteration(A, b, x0, tol, maxIter)
+
 
 %Step 1: perform the row swap to have maximum diagonal element 
 % as the pivot 
@@ -41,12 +44,13 @@ counter = 0;
 while counter <= maxIter
     x = C * x_old + d;
     counter = counter + 1;
-    fprintf("Iteration = %d , solution: ", counter);
-    disp(x');
-    fprintf('\n\n');
+    %fprintf("Iteration = %d , solution: ", counter);
+    %disp(x');
+    %fprintf('\n\n');
     
     if norm(x - x_old) < tol
         disp('Solution has converged.');
+        count = counter;
         return;
     end
     x_old = x;
@@ -54,5 +58,6 @@ end
 
 if counter > maxIter
     disp("Solution didn't converge");
+    count = counter;
 end
 end

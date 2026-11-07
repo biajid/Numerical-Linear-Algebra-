@@ -1,7 +1,9 @@
-function x = GaussSeidel(A, b, x0, tol, maxIter)
+function [x, counter] = GaussSeidel(A, b, x0, tol, maxIter)
 % This function performs Gauss-Seidel iteration to get the solution 
 % of a system of equation. 
 % Desired arguments: A, b, x0, tol, maxIter
+% Function signature ::
+% function [x, counter] = GaussSeidel(A, b, x0, tol, maxIter)
 
 %Step 1: perform the row swap to have maximum diagonal element 
 % as the pivot 
@@ -36,8 +38,7 @@ for i = 1 : n
 end
 
 x_old = x0(:);
-x = zeros(m, 1);
-
+x = x_old;
 counter = 0;
 
 while counter <= maxIter
@@ -45,12 +46,12 @@ while counter <= maxIter
         x(i) = C(i, :) * x + d(i);
     end
     counter = counter + 1;
-    fprintf("Iteration = %d , solution: ", counter);
-    disp(x');
-    fprintf('\n\n');
+    %fprintf("Iteration = %d , solution: ", counter);
+    %disp(x');
+    %fprintf('\n\n');
     
     if norm(x - x_old) < tol
-        disp('Solution has converged.');
+        %disp('Solution has converged.');
         return;
     end
     x_old = x;

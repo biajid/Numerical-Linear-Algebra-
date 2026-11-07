@@ -1,8 +1,9 @@
-function x = Sor_GaussSeidel(A, b, x0, tol, maxIter, w)
+function [x, count] = Sor_GaussSeidel(A, b, x0, tol, maxIter, w)
 % This function performs Successive Over Relaxation on 
 % Gauss-Seidel iteration to get the solution 
 % of a system of equation. 
 % Desired arguments: A, b, x0, tol, maxIter, w
+% this function returns solution, count_iter
 
 %Step 1: perform the row swap to have maximum diagonal element 
 % as the pivot 
@@ -46,18 +47,21 @@ while counter < maxIter
         x(i) = (1 - w) * x_old(i) + w * (C(i, :) * x + d(i));
     end
     counter = counter + 1;
-    fprintf("Iteration = %d , solution: ", counter);
-    disp(x');
-    fprintf('\n\n');
+    %fprintf("Iteration = %d , solution: ", counter);
+    %disp(x');
+    %fprintf('\n\n');
     
     if norm(x - x_old) <= tol 
-        disp('Solution has converged.');
+        %disp('Solution has converged.');
+        %disp(["Iteration Count: ", num2str(counter)]);
+        count = counter;
         return;
     end
     x_old = x;
 end
 
-if counter > maxIter
-    disp("Solution didn't converge");
-end
+disp("Solution didn't converge within the maximum iterations.");
+count = maxIter;
+
+count = maxIter;
 end
