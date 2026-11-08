@@ -60,8 +60,6 @@ while counter < maxIter
     x_old = x;
 end
 
-disp("Solution didn't converge within the maximum iterations.");
-count = maxIter;
-
+%disp("Solution didn't converge within the maximum iterations.");
 count = maxIter;
 end
