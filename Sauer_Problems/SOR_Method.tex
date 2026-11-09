@@ -4017,5 +4017,453 @@ Moreover, as $n\to\infty$, we have
 $\sin(\pi/(n+1))\to0$, and therefore
 $\omega_{\mathrm{opt}}\to2$.
 
+%```latex
+\section{Numerical Experiments and Discussion}
+
+We have established that the optimal relaxation
+parameter for the standard one-dimensional
+finite-difference matrix with $n$ interior
+unknowns is
+
+\begin{equation}
+    \boxed{
+    \omega_{\mathrm{opt}}
+    =
+    \frac{2}{
+    1+\sin\left(\frac{\pi}{n+1}\right)
+    }.
+    }
+    \label{eq:sor_numerical_optimal}
+\end{equation}
+
+Our next objective is to investigate how this
+theoretical result behaves in numerical
+computation. In particular, we wish to examine
+how the choice of the relaxation parameter
+affects the convergence of the SOR method
+and whether the theoretically optimal value
+agrees with our numerical observations.
+
+\subsection{Experimental Setup}
+
+For our numerical experiment, we consider
+the boundary value problem
+
+\[
+    u''(x)=\sin x,
+    \qquad 0<x<1,
+\]
+
+subject to the homogeneous Dirichlet
+boundary conditions
+
+\[
+    u(0)=u(1)=0.
+\]
+
+This problem has the exact solution
+
+\[
+    u(x)=x\sin(1)-\sin x,
+\]
+
+which can be verified by direct
+differentiation and substitution into
+the boundary conditions.
+
+We divide the interval $[0,1]$ into
+$N=500$ equal subintervals, giving
+
+\[
+    h=\frac{1}{500}.
+\]
+
+There are therefore $n=N-1=499$
+interior unknowns.
+
+Using the central-difference
+approximation, we obtain
+
+\[
+    \frac{
+    u_{i-1}-2u_i+u_{i+1}
+    }{h^2}
+    =
+    \sin(x_i).
+\]
+
+Multiplying by $-h^2$, we arrive at
+the linear system
+
+\[
+    Au=b,
+\]
+
+where
+
+\[
+    A=\operatorname{tridiag}(-1,2,-1),
+\]
+
+and
+
+\[
+    b_i=-h^2\sin(x_i).
+\]
+
+This is precisely the class of symmetric
+positive definite tridiagonal matrices
+for which we derived the optimal SOR
+relaxation parameter.
+
+Substituting $n=499$ into
+\eqref{eq:sor_numerical_optimal}, we obtain
+
+\[
+\begin{aligned}
+    \omega_{\mathrm{opt}}
+    &=
+    \frac{2}{
+    1+\sin\left(\frac{\pi}{500}\right)
+    }\\[6pt]
+    &\approx 1.9875.
+\end{aligned}
+\]
+
+Thus, our theoretical analysis predicts
+that the fastest asymptotic convergence
+should occur near
+
+\[
+    \boxed{\omega_{\mathrm{opt}}\approx1.9875.}
+\]
+
+\subsection{Numerical Results}
+
+To investigate this prediction, we
+implemented the SOR method and repeated
+the computation for several values
+of the relaxation parameter $\omega$.
+
+The stopping tolerance was set to
+$10^{-6}$, and we recorded the number
+of iterations required for convergence.
+
+The results are summarized in
+Table~\ref{tab:sor_numerical_results}.
+
+\begin{table}[htbp]
+\centering
+\caption{SOR iteration counts for different
+relaxation parameters with $N=500$.}
+\label{tab:sor_numerical_results}
+\begin{tabular}{cc}
+\hline
+$\omega$ & Iterations \\
+\hline
+1.9700 & 4082 \\
+1.9750 & 3398 \\
+1.9800 & 2680 \\
+1.9850 & 1877 \\
+1.9875 & 1320 \\
+1.9900 & 1502 \\
+1.9950 & 3002 \\
+\hline
+\end{tabular}
+\end{table}
+
+The numerical results are consistent
+with our theoretical prediction.
+
+As $\omega$ increases from $1.970$
+toward the theoretically optimal value,
+the number of iterations decreases
+substantially.
+
+For example, choosing $\omega=1.970$
+requires $4082$ iterations, whereas
+choosing $\omega\approx1.9875$
+requires only $1320$ iterations.
+
+However, increasing $\omega$ beyond
+this value does not produce further
+improvement. At $\omega=1.990$,
+the iteration count increases to
+$1502$, and at $\omega=1.995$,
+it increases to $3002$.
+
+This behavior illustrates the
+mathematical phenomenon established
+in our earlier analysis.
+
+Before the optimal parameter,
+increasing $\omega$ reduces the
+dominant convergence factor. At the
+optimal parameter, the spectral
+radius reaches its minimum. Beyond
+this point, the spectral radius
+increases, and convergence becomes
+progressively slower.
+
+It is important to distinguish
+between the theoretical and numerical
+notions of optimality. Our formula
+minimizes the spectral radius of the
+SOR iteration matrix, which governs
+the asymptotic rate of convergence.
+The precise iteration count observed
+in a finite computation can also
+depend on the initial approximation,
+the stopping criterion, and the
+distribution of the initial error
+among the eigenmodes.
+
+Nevertheless, the close agreement
+between the theoretical prediction
+and the numerical results provides
+a useful illustration of the
+underlying theory.
+
+\subsection{Implementation and Further Exploration}
+
+The complete computational notebook
+used for this exploration is publicly
+available in the author's GitHub
+repository:
+
+\begin{center}
+\url{https://github.com/biajid/Numerical-Linear-Algebra-/blob/main/Sauer_Problems/SOR_Exploration.ipynb}
+\end{center}
+
+Interested readers are encouraged
+to examine the implementation,
+reproduce the numerical experiments,
+and investigate how the convergence
+behavior changes with the number
+of grid points, the relaxation
+parameter, and the stopping tolerance.
+
+The implementation was developed
+primarily for mathematical exploration
+and was optimized only cursorily.
+Consequently, there is considerable
+room for improving its computational
+efficiency.
+
+For example, readers may exploit
+the tridiagonal structure of the
+finite-difference matrix to avoid
+unnecessary dense matrix operations,
+investigate more efficient
+implementations of the SOR iteration,
+or compare the computational cost
+with other iterative and direct
+methods.
+
+Such experiments provide an
+opportunity to appreciate an
+important distinction in numerical
+linear algebra: a method may have
+an excellent theoretical convergence
+rate, but its practical efficiency
+also depends on how carefully
+the algorithm is implemented.
+
+Our numerical experiment illustrates
+how theoretical analysis can guide
+the selection of an algorithmic
+parameter, while computational
+experimentation provides a means
+of examining the consequences
+of that choice in practice.
+
+
+\section{Conclusion}
+
+We began this note with one of the most fundamental
+problems in scientific computing: solving a
+system of linear equations,
+\[
+    Ax=b.
+\]
+Although direct methods such as Gaussian elimination
+and LU or QR factorization provide systematic approaches
+to this problem, the size and structure of many
+systems arising in scientific computation make
+iterative methods particularly attractive.
+
+We first introduced the Jacobi and Gauss--Seidel
+methods and examined how successive approximations
+can converge to the exact solution. By studying
+their iteration matrices, we established the
+connection between convergence and the spectral
+radius. This led us naturally to the successive
+over-relaxation (SOR) method, in which a relaxation
+parameter $\omega$ allows us to modify the
+Gauss--Seidel updates in an attempt to accelerate
+convergence.
+
+However, introducing a relaxation parameter
+immediately raises another question: how should
+we choose it? An arbitrary choice of $\omega$
+may improve convergence, produce little benefit,
+or even cause the iteration to diverge. Thus,
+the effectiveness of SOR depends not merely
+on introducing relaxation, but on choosing
+the relaxation parameter appropriately.
+
+To investigate this question, we studied the
+convergence properties of SOR and established
+the importance of the interval
+\[
+    0<\omega<2.
+\]
+We then developed a relationship between the
+eigenvalues of the Jacobi and SOR iteration
+matrices for the class of symmetric positive
+definite tridiagonal systems under consideration.
+By examining the resulting quadratic equation,
+its discriminant, and the behavior of its roots,
+we obtained the optimal relaxation parameter
+\[
+    \boxed{
+    \omega_{\mathrm{opt}}
+    =
+    \frac{2}{
+        1+\sqrt{1-\rho(T_J)^2}
+    }.
+    }
+\]
+
+We subsequently applied this theoretical result
+to the standard one-dimensional finite-difference
+matrix. By solving the eigenvector recurrence
+analytically, we determined the eigenvalues of
+the corresponding Jacobi iteration matrix and
+obtained the explicit expression
+\[
+    \boxed{
+    \omega_{\mathrm{opt}}
+    =
+    \frac{2}{
+        1+\sin\left(\frac{\pi}{n+1}\right)
+    }.
+    }
+\]
+This formula allows us to determine the optimal
+relaxation parameter directly from the number
+of interior grid points, without performing
+a numerical eigenvalue calculation.
+
+Finally, we examined the theory through a
+numerical experiment involving a finite-difference
+approximation to a boundary value problem.
+The observed iteration counts agreed closely
+with the theoretical prediction. In particular,
+we found that increasing $\omega$ toward its
+optimal value substantially reduced the number
+of iterations, while increasing it beyond that
+value made convergence slower.
+
+This illustrates an important principle of
+numerical computation: a seemingly small change
+in an algorithmic parameter can have a substantial
+effect on computational efficiency.
+
+Finally, the historical importance of relaxation methods
+should not be overlooked. Their development
+was closely connected with the numerical solution
+of partial differential equations, particularly
+those arising in mathematical physics and
+engineering. During the middle decades of the
+twentieth century, when computing resources
+were far more limited than they are today,
+reducing the number of iterations required to
+solve a large system could represent a major
+computational improvement.
+
+The development and analysis of relaxation
+methods contributed significantly to the
+progress of scientific computing through the
+1950s, 1960s, and 1970s. Problems involving
+heat conduction, fluid mechanics, electrostatics,
+and other physical phenomena increasingly
+required the numerical solution of large
+systems of equations. In such settings,
+understanding convergence and choosing
+effective iterative parameters were not
+merely theoretical concerns; they were
+essential parts of making numerical
+computation practical.
+
+There is also a broader lesson in the
+mathematical development presented here.
+The ideas underlying stationary iterative
+methods, relaxation, convergence analysis,
+and optimal parameter selection emerged
+through the contributions of numerous
+mathematicians over several decades.
+The theory did not appear fully developed
+in a single paper or at a single moment.
+Rather, it grew through successive
+improvements, new mathematical insights,
+and the increasing demands of scientific
+computation.
+
+For readers encountering these arguments
+for the first time, some parts of the
+derivation may appear difficult, particularly
+the connection between the Jacobi and SOR
+eigenvalues and the subsequent analysis
+of the discriminant. This is entirely
+understandable. Mathematics that required
+the collective efforts of many researchers
+over a period approaching half a century
+should not necessarily be expected to
+become completely transparent after
+only fifty minutes of reading.
+
+Indeed, understanding mathematics is
+itself an iterative process. We begin
+with an approximation to an idea, examine
+where our understanding is incomplete,
+and return to it with a better perspective.
+Each attempt brings us a little closer
+to the desired result.
+
+Perhaps this is an appropriate place
+to conclude a note on iterative methods.
+Just as the SOR algorithm approaches
+the solution through successive
+approximations, our understanding of
+mathematics often develops through
+successive attempts.
+
+The important thing is not to understand
+everything immediately, but to continue
+the iteration.
+
+
+\begin{thebibliography}{9}
+
+\bibitem{strang2006}
+Gilbert Strang,
+\textit{Linear Algebra and Its Applications},
+4th ed.,
+Brooks/Cole, 2006.
+
+\bibitem{young1971}
+David M. Young,
+\textit{Iterative Solution of Large Linear Systems},
+Academic Press, 1971.
+
+\bibitem{varga2000}
+Richard S. Varga,
+\textit{Matrix Iterative Analysis},
+2nd ed.,
+Springer, 2000.
+
+\end{thebibliography}
+
 \end{document}
 

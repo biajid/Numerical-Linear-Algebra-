@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.3.4)  8 NOV 2026 04:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.3.4)  8 NOV 2026 04:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -525,27 +525,36 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 \tf@toc=\write4
 \openout4 = `SOR_Method.toc'.
 
- [2] [3{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}] [4] [5] [6{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathex.enc}] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34] [35] [36] [37] [38] [39] [40] (./SOR_Method.aux)
+ [2] [3{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}] [4] [5] [6{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathex.enc}] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34] [35] [36] [37] [38] [39] [40] [41]
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 4235.
+ (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ [42] [43] [44] (./SOR_Method.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
 Package rerunfilecheck Info: File `SOR_Method.out' has not changed.
-(rerunfilecheck)             Checksum: 7A583C6432028B9F26F211CBC8B61328;5029.
+(rerunfilecheck)             Checksum: F75AE12238879749BFAD78A93D33BBA6;5910.
  ) 
 Here is how much of TeX's memory you used:
- 13911 strings out of 474222
- 217796 string characters out of 5748734
+ 13994 strings out of 474222
+ 219063 string characters out of 5748734
  1936975 words of memory out of 5000000
- 35622 multiletter control sequences out of 15000+600000
- 636616 words of font info for 189 fonts, out of 8000000 for 9000
+ 35682 multiletter control sequences out of 15000+600000
+ 637101 words of font info for 192 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,11n,79p,1065b,605s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmex10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi8.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr6.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy6.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on SOR_Method.pdf (40 pages, 350117 bytes).
+</usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmex10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi8.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr6.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy6.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy8.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on SOR_Method.pdf (44 pages, 391347 bytes).
 PDF statistics:
- 485 PDF objects out of 1000 (max. 8388607)
- 409 compressed objects within 5 object streams
- 140 named destinations out of 1000 (max. 500000)
- 41113 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 545 PDF objects out of 1000 (max. 8388607)
+ 463 compressed objects within 5 object streams
+ 155 named destinations out of 1000 (max. 500000)
+ 41665 words of extra memory for PDF output out of 42996 (max. 10000000)
 
